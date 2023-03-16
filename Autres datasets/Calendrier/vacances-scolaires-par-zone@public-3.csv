@@ -1,0 +1,367 @@
+﻿Date;Calendrier Zone A;Calendrier Zone B;Calendrier Zone C;Nom de la période;timestamp_unix
+2020-01-06;Hors Vacances;Hors Vacances;Hors Vacances;;1578268800
+2020-01-16;Hors Vacances;Hors Vacances;Hors Vacances;;1579132800
+2020-02-05;Hors Vacances;Hors Vacances;Hors Vacances;;1580860800
+2020-02-12;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581465600
+2020-03-08;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583625600
+2020-03-17;Hors Vacances;Hors Vacances;Hors Vacances;;1584403200
+2020-04-17;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1587081600
+2020-04-20;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587340800
+2020-05-15;Hors Vacances;Hors Vacances;Hors Vacances;;1589500800
+2020-08-15;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597449600
+2020-09-29;Hors Vacances;Hors Vacances;Hors Vacances;;1601337600
+2020-10-17;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1602892800
+2020-10-28;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603843200
+2020-05-09;Hors Vacances;Hors Vacances;Hors Vacances;;1588982400
+2020-05-27;Hors Vacances;Hors Vacances;Hors Vacances;;1590537600
+2020-06-07;Hors Vacances;Hors Vacances;Hors Vacances;;1591488000
+2020-06-09;Hors Vacances;Hors Vacances;Hors Vacances;;1591660800
+2020-07-01;Hors Vacances;Hors Vacances;Hors Vacances;;1593561600
+2020-07-11;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594425600
+2020-10-06;Hors Vacances;Hors Vacances;Hors Vacances;;1601942400
+2020-10-13;Hors Vacances;Hors Vacances;Hors Vacances;;1602547200
+2020-01-04;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1578096000
+2020-02-04;Hors Vacances;Hors Vacances;Hors Vacances;;1580774400
+2020-02-08;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581120000
+2020-02-11;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581379200
+2020-02-28;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582848000
+2020-03-09;Hors Vacances;Hors Vacances;Hors Vacances;;1583712000
+2020-03-12;Hors Vacances;Hors Vacances;Hors Vacances;;1583971200
+2020-03-26;Hors Vacances;Hors Vacances;Hors Vacances;;1585180800
+2020-04-09;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586390400
+2020-04-23;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587600000
+2020-05-04;Hors Vacances;Hors Vacances;Hors Vacances;;1588550400
+2020-06-19;Hors Vacances;Hors Vacances;Hors Vacances;;1592524800
+2020-07-27;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595808000
+2020-10-09;Hors Vacances;Hors Vacances;Hors Vacances;;1602201600
+2020-10-11;Hors Vacances;Hors Vacances;Hors Vacances;;1602374400
+2020-10-16;Hors Vacances;Hors Vacances;Hors Vacances;;1602806400
+2020-12-06;Hors Vacances;Hors Vacances;Hors Vacances;;1607212800
+2020-01-03;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1578009600
+2020-01-26;Hors Vacances;Hors Vacances;Hors Vacances;;1579996800
+2020-02-19;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1582070400
+2020-03-16;Hors Vacances;Hors Vacances;Hors Vacances;;1584316800
+2020-03-28;Hors Vacances;Hors Vacances;Hors Vacances;;1585353600
+2020-06-25;Hors Vacances;Hors Vacances;Hors Vacances;;1593043200
+2020-07-07;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594080000
+2020-07-30;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596067200
+2020-08-29;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598659200
+2020-10-20;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603152000
+2020-11-07;Hors Vacances;Hors Vacances;Hors Vacances;;1604707200
+2020-11-30;Hors Vacances;Hors Vacances;Hors Vacances;;1606694400
+2020-12-22;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608595200
+2020-01-12;Hors Vacances;Hors Vacances;Hors Vacances;;1578787200
+2020-01-20;Hors Vacances;Hors Vacances;Hors Vacances;;1579478400
+2020-02-07;Hors Vacances;Hors Vacances;Hors Vacances;;1581033600
+2020-02-14;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581638400
+2020-04-12;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586649600
+2020-04-27;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1587945600
+2020-06-27;Hors Vacances;Hors Vacances;Hors Vacances;;1593216000
+2020-08-01;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596240000
+2020-10-04;Hors Vacances;Hors Vacances;Hors Vacances;;1601769600
+2020-10-08;Hors Vacances;Hors Vacances;Hors Vacances;;1602115200
+2020-12-03;Hors Vacances;Hors Vacances;Hors Vacances;;1606953600
+2020-01-11;Hors Vacances;Hors Vacances;Hors Vacances;;1578700800
+2020-03-20;Hors Vacances;Hors Vacances;Hors Vacances;;1584662400
+2020-04-02;Hors Vacances;Hors Vacances;Hors Vacances;;1585785600
+2020-04-10;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586476800
+2020-04-11;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586563200
+2020-04-29;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588118400
+2020-05-08;Hors Vacances;Hors Vacances;Hors Vacances;;1588896000
+2020-05-22;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;1590105600
+2020-05-26;Hors Vacances;Hors Vacances;Hors Vacances;;1590451200
+2020-08-14;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597363200
+2020-08-18;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597708800
+2020-08-22;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598054400
+2020-09-06;Hors Vacances;Hors Vacances;Hors Vacances;;1599350400
+2020-09-25;Hors Vacances;Hors Vacances;Hors Vacances;;1600992000
+2020-09-27;Hors Vacances;Hors Vacances;Hors Vacances;;1601164800
+2020-12-31;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1609372800
+2020-01-08;Hors Vacances;Hors Vacances;Hors Vacances;;1578441600
+2020-01-14;Hors Vacances;Hors Vacances;Hors Vacances;;1578960000
+2020-02-26;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582675200
+2020-04-18;Vacances de printemps;Vacances de printemps;Vacances de printemps;Vacances de printemps;1587168000
+2020-05-05;Hors Vacances;Hors Vacances;Hors Vacances;;1588636800
+2020-05-17;Hors Vacances;Hors Vacances;Hors Vacances;;1589673600
+2020-05-18;Hors Vacances;Hors Vacances;Hors Vacances;;1589760000
+2020-05-24;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;1590278400
+2020-05-29;Hors Vacances;Hors Vacances;Hors Vacances;;1590710400
+2020-06-02;Hors Vacances;Hors Vacances;Hors Vacances;;1591056000
+2020-06-18;Hors Vacances;Hors Vacances;Hors Vacances;;1592438400
+2020-06-21;Hors Vacances;Hors Vacances;Hors Vacances;;1592697600
+2020-06-24;Hors Vacances;Hors Vacances;Hors Vacances;;1592956800
+2020-07-05;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1593907200
+2020-07-31;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596153600
+2020-08-20;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597881600
+2020-09-09;Hors Vacances;Hors Vacances;Hors Vacances;;1599609600
+2020-11-21;Hors Vacances;Hors Vacances;Hors Vacances;;1605916800
+2020-02-03;Hors Vacances;Hors Vacances;Hors Vacances;;1580688000
+2020-02-09;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581206400
+2020-03-07;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583539200
+2020-04-08;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586304000
+2020-06-08;Hors Vacances;Hors Vacances;Hors Vacances;;1591574400
+2020-06-26;Hors Vacances;Hors Vacances;Hors Vacances;;1593129600
+2020-07-12;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594512000
+2020-07-17;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594944000
+2020-09-11;Hors Vacances;Hors Vacances;Hors Vacances;;1599782400
+2020-10-30;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1604016000
+2020-11-04;Hors Vacances;Hors Vacances;Hors Vacances;;1604448000
+2020-12-01;Hors Vacances;Hors Vacances;Hors Vacances;;1606780800
+2020-12-07;Hors Vacances;Hors Vacances;Hors Vacances;;1607299200
+2020-12-08;Hors Vacances;Hors Vacances;Hors Vacances;;1607385600
+2020-12-14;Hors Vacances;Hors Vacances;Hors Vacances;;1607904000
+2020-12-26;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608940800
+2020-04-04;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1585958400
+2020-08-05;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596585600
+2020-09-08;Hors Vacances;Hors Vacances;Hors Vacances;;1599523200
+2020-09-17;Hors Vacances;Hors Vacances;Hors Vacances;;1600300800
+2020-10-25;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603584000
+2020-11-12;Hors Vacances;Hors Vacances;Hors Vacances;;1605139200
+2020-12-12;Hors Vacances;Hors Vacances;Hors Vacances;;1607731200
+2020-12-19;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608336000
+2020-01-07;Hors Vacances;Hors Vacances;Hors Vacances;;1578355200
+2020-01-24;Hors Vacances;Hors Vacances;Hors Vacances;;1579824000
+2020-01-29;Hors Vacances;Hors Vacances;Hors Vacances;;1580256000
+2020-03-05;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583366400
+2020-05-14;Hors Vacances;Hors Vacances;Hors Vacances;;1589414400
+2020-05-30;Hors Vacances;Hors Vacances;Hors Vacances;;1590796800
+2020-06-11;Hors Vacances;Hors Vacances;Hors Vacances;;1591833600
+2020-06-13;Hors Vacances;Hors Vacances;Hors Vacances;;1592006400
+2020-08-06;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596672000
+2020-09-13;Hors Vacances;Hors Vacances;Hors Vacances;;1599955200
+2020-10-02;Hors Vacances;Hors Vacances;Hors Vacances;;1601596800
+2020-10-26;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603670400
+2020-11-24;Hors Vacances;Hors Vacances;Hors Vacances;;1606176000
+2020-11-27;Hors Vacances;Hors Vacances;Hors Vacances;;1606435200
+2020-12-28;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1609113600
+2020-04-03;Hors Vacances;Hors Vacances;Hors Vacances;;1585872000
+2020-04-24;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587686400
+2020-05-06;Hors Vacances;Hors Vacances;Hors Vacances;;1588723200
+2020-05-10;Hors Vacances;Hors Vacances;Hors Vacances;;1589068800
+2020-07-21;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595289600
+2020-08-08;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596844800
+2020-09-19;Hors Vacances;Hors Vacances;Hors Vacances;;1600473600
+2020-09-23;Hors Vacances;Hors Vacances;Hors Vacances;;1600819200
+2020-09-24;Hors Vacances;Hors Vacances;Hors Vacances;;1600905600
+2020-10-12;Hors Vacances;Hors Vacances;Hors Vacances;;1602460800
+2020-10-15;Hors Vacances;Hors Vacances;Hors Vacances;;1602720000
+2020-10-19;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603065600
+2020-11-03;Hors Vacances;Hors Vacances;Hors Vacances;;1604361600
+2020-12-18;Hors Vacances;Hors Vacances;Hors Vacances;;1608249600
+2020-02-13;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581552000
+2020-03-21;Hors Vacances;Hors Vacances;Hors Vacances;;1584748800
+2020-04-30;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588204800
+2020-09-14;Hors Vacances;Hors Vacances;Hors Vacances;;1600041600
+2020-09-22;Hors Vacances;Hors Vacances;Hors Vacances;;1600732800
+2020-09-26;Hors Vacances;Hors Vacances;Hors Vacances;;1601078400
+2020-09-30;Hors Vacances;Hors Vacances;Hors Vacances;;1601424000
+2020-11-29;Hors Vacances;Hors Vacances;Hors Vacances;;1606608000
+2020-01-23;Hors Vacances;Hors Vacances;Hors Vacances;;1579737600
+2020-02-02;Hors Vacances;Hors Vacances;Hors Vacances;;1580601600
+2020-02-24;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582502400
+2020-04-06;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586131200
+2020-04-19;Vacances de printemps;Vacances de printemps;Vacances de printemps;Vacances de printemps;1587254400
+2020-04-25;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587772800
+2020-05-21;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;1590019200
+2020-06-23;Hors Vacances;Hors Vacances;Hors Vacances;;1592870400
+2020-06-28;Hors Vacances;Hors Vacances;Hors Vacances;;1593302400
+2020-06-30;Hors Vacances;Hors Vacances;Hors Vacances;;1593475200
+2020-07-19;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595116800
+2020-07-26;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595721600
+2020-08-11;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597104000
+2020-08-19;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597795200
+2020-08-27;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598486400
+2020-11-02;Hors Vacances;Hors Vacances;Hors Vacances;;1604275200
+2020-11-11;Hors Vacances;Hors Vacances;Hors Vacances;;1605052800
+2020-12-15;Hors Vacances;Hors Vacances;Hors Vacances;;1607990400
+2020-12-16;Hors Vacances;Hors Vacances;Hors Vacances;;1608076800
+2020-02-21;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1582243200
+2020-03-25;Hors Vacances;Hors Vacances;Hors Vacances;;1585094400
+2020-04-05;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586044800
+2020-04-28;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588032000
+2020-07-16;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594857600
+2020-08-07;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596758400
+2020-09-07;Hors Vacances;Hors Vacances;Hors Vacances;;1599436800
+2020-12-11;Hors Vacances;Hors Vacances;Hors Vacances;;1607644800
+2020-12-27;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1609027200
+2020-01-09;Hors Vacances;Hors Vacances;Hors Vacances;;1578528000
+2020-04-26;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587859200
+2020-05-02;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588377600
+2020-05-03;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588464000
+2020-07-02;Hors Vacances;Hors Vacances;Hors Vacances;;1593648000
+2020-07-06;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1593993600
+2020-08-03;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596412800
+2020-08-25;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598313600
+2020-09-16;Hors Vacances;Hors Vacances;Hors Vacances;;1600214400
+2020-09-21;Hors Vacances;Hors Vacances;Hors Vacances;;1600646400
+2020-11-13;Hors Vacances;Hors Vacances;Hors Vacances;;1605225600
+2020-12-20;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608422400
+2020-12-25;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608854400
+2020-12-29;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1609200000
+2020-01-22;Hors Vacances;Hors Vacances;Hors Vacances;;1579651200
+2020-03-18;Hors Vacances;Hors Vacances;Hors Vacances;;1584489600
+2020-03-23;Hors Vacances;Hors Vacances;Hors Vacances;;1584921600
+2020-04-15;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586908800
+2020-06-16;Hors Vacances;Hors Vacances;Hors Vacances;;1592265600
+2020-06-17;Hors Vacances;Hors Vacances;Hors Vacances;;1592352000
+2020-07-28;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595894400
+2020-08-09;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596931200
+2020-08-10;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597017600
+2020-09-10;Hors Vacances;Hors Vacances;Hors Vacances;;1599696000
+2020-10-22;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603324800
+2020-01-15;Hors Vacances;Hors Vacances;Hors Vacances;;1579046400
+2020-02-17;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1581897600
+2020-03-02;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583107200
+2020-03-06;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583452800
+2020-03-14;Hors Vacances;Hors Vacances;Hors Vacances;;1584144000
+2020-03-27;Hors Vacances;Hors Vacances;Hors Vacances;;1585267200
+2020-05-12;Hors Vacances;Hors Vacances;Hors Vacances;;1589241600
+2020-05-13;Hors Vacances;Hors Vacances;Hors Vacances;;1589328000
+2020-06-03;Hors Vacances;Hors Vacances;Hors Vacances;;1591142400
+2020-08-17;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597622400
+2020-09-12;Hors Vacances;Hors Vacances;Hors Vacances;;1599868800
+2020-10-14;Hors Vacances;Hors Vacances;Hors Vacances;;1602633600
+2020-10-21;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603238400
+2020-11-17;Hors Vacances;Hors Vacances;Hors Vacances;;1605571200
+2020-12-05;Hors Vacances;Hors Vacances;Hors Vacances;;1607126400
+2020-12-21;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608508800
+2020-01-02;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1577923200
+2020-01-18;Hors Vacances;Hors Vacances;Hors Vacances;;1579305600
+2020-02-20;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1582156800
+2020-04-14;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586822400
+2020-07-15;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594771200
+2020-09-02;Hors Vacances;Hors Vacances;Hors Vacances;;1599004800
+2020-09-18;Hors Vacances;Hors Vacances;Hors Vacances;;1600387200
+2020-10-05;Hors Vacances;Hors Vacances;Hors Vacances;;1601856000
+2020-11-06;Hors Vacances;Hors Vacances;Hors Vacances;;1604620800
+2020-11-08;Hors Vacances;Hors Vacances;Hors Vacances;;1604793600
+2020-12-04;Hors Vacances;Hors Vacances;Hors Vacances;;1607040000
+2020-12-10;Hors Vacances;Hors Vacances;Hors Vacances;;1607558400
+2020-12-30;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1609286400
+2020-02-10;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1581292800
+2020-02-27;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582761600
+2020-04-21;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587427200
+2020-06-06;Hors Vacances;Hors Vacances;Hors Vacances;;1591401600
+2020-07-14;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594684800
+2020-07-20;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595203200
+2020-07-22;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595376000
+2020-08-28;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598572800
+2020-09-03;Hors Vacances;Hors Vacances;Hors Vacances;;1599091200
+2020-10-31;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1604102400
+2020-12-24;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608768000
+2020-01-01;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1577836800
+2020-01-28;Hors Vacances;Hors Vacances;Hors Vacances;;1580169600
+2020-02-01;Hors Vacances;Hors Vacances;Hors Vacances;;1580515200
+2020-02-22;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1582329600
+2020-03-13;Hors Vacances;Hors Vacances;Hors Vacances;;1584057600
+2020-03-22;Hors Vacances;Hors Vacances;Hors Vacances;;1584835200
+2020-03-29;Hors Vacances;Hors Vacances;Hors Vacances;;1585440000
+2020-04-13;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586736000
+2020-05-28;Hors Vacances;Hors Vacances;Hors Vacances;;1590624000
+2020-07-03;Hors Vacances;Hors Vacances;Hors Vacances;;1593734400
+2020-07-18;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595030400
+2020-08-12;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597190400
+2020-10-23;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603411200
+2020-11-28;Hors Vacances;Hors Vacances;Hors Vacances;;1606521600
+2020-01-21;Hors Vacances;Hors Vacances;Hors Vacances;;1579564800
+2020-01-31;Hors Vacances;Hors Vacances;Hors Vacances;;1580428800
+2020-03-19;Hors Vacances;Hors Vacances;Hors Vacances;;1584576000
+2020-05-07;Hors Vacances;Hors Vacances;Hors Vacances;;1588809600
+2020-05-19;Hors Vacances;Hors Vacances;Hors Vacances;;1589846400
+2020-07-04;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1593820800
+2020-07-13;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594598400
+2020-08-31;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598832000
+2020-09-15;Hors Vacances;Hors Vacances;Hors Vacances;;1600128000
+2020-11-01;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1604188800
+2020-11-22;Hors Vacances;Hors Vacances;Hors Vacances;;1606003200
+2020-11-25;Hors Vacances;Hors Vacances;Hors Vacances;;1606262400
+2020-11-26;Hors Vacances;Hors Vacances;Hors Vacances;;1606348800
+2020-12-13;Hors Vacances;Hors Vacances;Hors Vacances;;1607817600
+2020-12-23;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1608681600
+2020-02-25;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582588800
+2020-03-03;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583193600
+2020-03-04;Vacances d'hiver;Hors Vacances;Hors Vacances;Vacances d'hiver;1583280000
+2020-04-07;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1586217600
+2020-05-01;Vacances de printemps;Hors Vacances;Hors Vacances;Vacances de printemps;1588291200
+2020-06-01;Hors Vacances;Hors Vacances;Hors Vacances;;1590969600
+2020-06-10;Hors Vacances;Hors Vacances;Hors Vacances;;1591747200
+2020-07-24;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595548800
+2020-08-04;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596499200
+2020-09-05;Hors Vacances;Hors Vacances;Hors Vacances;;1599264000
+2020-10-18;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1602979200
+2020-11-19;Hors Vacances;Hors Vacances;Hors Vacances;;1605744000
+2020-12-17;Hors Vacances;Hors Vacances;Hors Vacances;;1608163200
+2020-02-16;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1581811200
+2020-02-18;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1581984000
+2020-06-04;Hors Vacances;Hors Vacances;Hors Vacances;;1591228800
+2020-10-03;Hors Vacances;Hors Vacances;Hors Vacances;;1601683200
+2020-12-09;Hors Vacances;Hors Vacances;Hors Vacances;;1607472000
+2020-01-17;Hors Vacances;Hors Vacances;Hors Vacances;;1579219200
+2020-01-25;Hors Vacances;Hors Vacances;Hors Vacances;;1579910400
+2020-04-16;Hors Vacances;Vacances de printemps;Vacances de printemps;Vacances de printemps;1586995200
+2020-04-22;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1587513600
+2020-05-11;Hors Vacances;Hors Vacances;Hors Vacances;;1589155200
+2020-05-31;Hors Vacances;Hors Vacances;Hors Vacances;;1590883200
+2020-06-29;Hors Vacances;Hors Vacances;Hors Vacances;;1593388800
+2020-07-08;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594166400
+2020-08-23;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598140800
+2020-10-01;Hors Vacances;Hors Vacances;Hors Vacances;;1601510400
+2020-11-23;Hors Vacances;Hors Vacances;Hors Vacances;;1606089600
+2020-02-15;Hors Vacances;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1581724800
+2020-03-01;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1583020800
+2020-03-15;Hors Vacances;Hors Vacances;Hors Vacances;;1584230400
+2020-03-31;Hors Vacances;Hors Vacances;Hors Vacances;;1585612800
+2020-05-20;Hors Vacances;Hors Vacances;Hors Vacances;;1589932800
+2020-06-15;Hors Vacances;Hors Vacances;Hors Vacances;;1592179200
+2020-08-26;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598400000
+2020-09-01;Hors Vacances;Hors Vacances;Hors Vacances;;1598918400
+2020-10-07;Hors Vacances;Hors Vacances;Hors Vacances;;1602028800
+2020-10-10;Hors Vacances;Hors Vacances;Hors Vacances;;1602288000
+2020-10-29;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603929600
+2020-01-27;Hors Vacances;Hors Vacances;Hors Vacances;;1580083200
+2020-03-11;Hors Vacances;Hors Vacances;Hors Vacances;;1583884800
+2020-03-24;Hors Vacances;Hors Vacances;Hors Vacances;;1585008000
+2020-05-16;Hors Vacances;Hors Vacances;Hors Vacances;;1589587200
+2020-05-23;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;Pont de l'Ascension;1590192000
+2020-05-25;Hors Vacances;Hors Vacances;Hors Vacances;;1590364800
+2020-06-14;Hors Vacances;Hors Vacances;Hors Vacances;;1592092800
+2020-06-20;Hors Vacances;Hors Vacances;Hors Vacances;;1592611200
+2020-08-24;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598227200
+2020-08-30;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1598745600
+2020-11-05;Hors Vacances;Hors Vacances;Hors Vacances;;1604534400
+2020-11-10;Hors Vacances;Hors Vacances;Hors Vacances;;1604966400
+2020-12-02;Hors Vacances;Hors Vacances;Hors Vacances;;1606867200
+2020-02-23;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1582416000
+2020-02-29;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1582934400
+2020-03-10;Hors Vacances;Hors Vacances;Hors Vacances;;1583798400
+2020-06-05;Hors Vacances;Hors Vacances;Hors Vacances;;1591315200
+2020-06-12;Hors Vacances;Hors Vacances;Hors Vacances;;1591920000
+2020-07-23;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595462400
+2020-08-02;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1596326400
+2020-08-16;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597536000
+2020-09-04;Hors Vacances;Hors Vacances;Hors Vacances;;1599177600
+2020-10-24;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603497600
+2020-01-05;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1578182400
+2020-01-10;Hors Vacances;Hors Vacances;Hors Vacances;;1578614400
+2020-01-13;Hors Vacances;Hors Vacances;Hors Vacances;;1578873600
+2020-01-19;Hors Vacances;Hors Vacances;Hors Vacances;;1579392000
+2020-01-30;Hors Vacances;Hors Vacances;Hors Vacances;;1580342400
+2020-02-06;Hors Vacances;Hors Vacances;Hors Vacances;;1580947200
+2020-03-30;Hors Vacances;Hors Vacances;Hors Vacances;;1585526400
+2020-04-01;Hors Vacances;Hors Vacances;Hors Vacances;;1585699200
+2020-06-22;Hors Vacances;Hors Vacances;Hors Vacances;;1592784000
+2020-07-09;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594252800
+2020-07-10;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1594339200
+2020-07-25;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595635200
+2020-07-29;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1595980800
+2020-08-13;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597276800
+2020-08-21;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1597968000
+2020-09-20;Hors Vacances;Hors Vacances;Hors Vacances;;1600560000
+2020-09-28;Hors Vacances;Hors Vacances;Hors Vacances;;1601251200
+2020-10-27;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1603756800
+2020-11-09;Hors Vacances;Hors Vacances;Hors Vacances;;1604880000
+2020-11-14;Hors Vacances;Hors Vacances;Hors Vacances;;1605312000
+2020-11-15;Hors Vacances;Hors Vacances;Hors Vacances;;1605398400
+2020-11-16;Hors Vacances;Hors Vacances;Hors Vacances;;1605484800
+2020-11-18;Hors Vacances;Hors Vacances;Hors Vacances;;1605657600
+2020-11-20;Hors Vacances;Hors Vacances;Hors Vacances;;1605830400

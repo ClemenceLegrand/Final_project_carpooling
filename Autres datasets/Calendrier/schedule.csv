@@ -1,0 +1,1462 @@
+,date,holidays_name,weekday,vacation_level
+159,2019-01-01,Vacances de Noël,Tuesday,3
+0,2019-01-02,Vacances de Noël,Wednesday,3
+146,2019-01-03,Vacances de Noël,Thursday,3
+338,2019-01-04,Vacances de Noël,Friday,3
+169,2019-01-05,Vacances de Noël,Saturday,3
+222,2019-01-06,Vacances de Noël,Sunday,3
+147,2019-01-07,Hors vacances,Monday,0
+308,2019-01-08,Hors vacances,Tuesday,0
+205,2019-01-09,Hors vacances,Wednesday,0
+104,2019-01-10,Hors vacances,Thursday,0
+148,2019-01-11,Hors vacances,Friday,0
+105,2019-01-12,Hors vacances,Saturday,0
+223,2019-01-13,Hors vacances,Sunday,0
+47,2019-01-14,Hors vacances,Monday,0
+170,2019-01-15,Hors vacances,Tuesday,0
+270,2019-01-16,Hors vacances,Wednesday,0
+309,2019-01-17,Hors vacances,Thursday,0
+233,2019-01-18,Hors vacances,Friday,0
+74,2019-01-19,Hors vacances,Saturday,0
+75,2019-01-20,Hors vacances,Sunday,0
+93,2019-01-21,Hors vacances,Monday,0
+293,2019-01-22,Hors vacances,Tuesday,0
+224,2019-01-23,Hors vacances,Wednesday,0
+234,2019-01-24,Hors vacances,Thursday,0
+106,2019-01-25,Hors vacances,Friday,0
+281,2019-01-26,Hors vacances,Saturday,0
+1,2019-01-27,Hors vacances,Sunday,0
+123,2019-01-28,Hors vacances,Monday,0
+320,2019-01-29,Hors vacances,Tuesday,0
+182,2019-01-30,Hors vacances,Wednesday,0
+294,2019-01-31,Hors vacances,Thursday,0
+34,2019-02-01,Hors vacances,Friday,0
+295,2019-02-02,Hors vacances,Saturday,0
+94,2019-02-03,Hors vacances,Sunday,0
+160,2019-02-04,Hors vacances,Monday,0
+296,2019-02-05,Hors vacances,Tuesday,0
+29,2019-02-06,Hors vacances,Wednesday,0
+95,2019-02-07,Hors vacances,Thursday,0
+346,2019-02-08,Hors vacances,Friday,0
+251,2019-02-09,Vacances d'hiver,Saturday,1
+310,2019-02-10,Vacances d'hiver,Sunday,1
+183,2019-02-11,Vacances d'hiver,Monday,1
+321,2019-02-12,Vacances d'hiver,Tuesday,1
+271,2019-02-13,Vacances d'hiver,Wednesday,1
+171,2019-02-14,Vacances d'hiver,Thursday,1
+262,2019-02-15,Vacances d'hiver,Friday,1
+235,2019-02-16,Vacances d'hiver,Saturday,2
+133,2019-02-17,Vacances d'hiver,Sunday,2
+347,2019-02-18,Vacances d'hiver,Monday,2
+263,2019-02-19,Vacances d'hiver,Tuesday,2
+60,2019-02-20,Vacances d'hiver,Wednesday,2
+35,2019-02-21,Vacances d'hiver,Thursday,2
+12,2019-02-22,Vacances d'hiver,Friday,2
+236,2019-02-23,Vacances d'hiver,Saturday,3
+61,2019-02-24,Vacances d'hiver,Sunday,3
+107,2019-02-25,Vacances d'hiver,Monday,2
+2,2019-02-26,Vacances d'hiver,Tuesday,2
+36,2019-02-27,Vacances d'hiver,Wednesday,2
+124,2019-02-28,Vacances d'hiver,Thursday,2
+272,2019-03-01,Vacances d'hiver,Friday,2
+348,2019-03-02,Vacances d'hiver,Saturday,2
+282,2019-03-03,Vacances d'hiver,Sunday,2
+161,2019-03-04,Vacances d'hiver,Monday,1
+13,2019-03-05,Vacances d'hiver,Tuesday,1
+48,2019-03-06,Vacances d'hiver,Wednesday,1
+252,2019-03-07,Vacances d'hiver,Thursday,1
+3,2019-03-08,Vacances d'hiver,Friday,1
+264,2019-03-09,Vacances d'hiver,Saturday,1
+14,2019-03-10,Vacances d'hiver,Sunday,1
+184,2019-03-11,Hors vacances,Monday,0
+185,2019-03-12,Hors vacances,Tuesday,0
+162,2019-03-13,Hors vacances,Wednesday,0
+322,2019-03-14,Hors vacances,Thursday,0
+62,2019-03-15,Hors vacances,Friday,0
+186,2019-03-16,Hors vacances,Saturday,0
+187,2019-03-17,Hors vacances,Sunday,0
+253,2019-03-18,Hors vacances,Monday,0
+206,2019-03-19,Hors vacances,Tuesday,0
+207,2019-03-20,Hors vacances,Wednesday,0
+283,2019-03-21,Hors vacances,Thursday,0
+208,2019-03-22,Hors vacances,Friday,0
+108,2019-03-23,Hors vacances,Saturday,0
+116,2019-03-24,Hors vacances,Sunday,0
+237,2019-03-25,Hors vacances,Monday,0
+323,2019-03-26,Hors vacances,Tuesday,0
+15,2019-03-27,Hors vacances,Wednesday,0
+117,2019-03-28,Hors vacances,Thursday,0
+188,2019-03-29,Hors vacances,Friday,0
+189,2019-03-30,Hors vacances,Saturday,0
+109,2019-03-31,Hors vacances,Sunday,0
+284,2019-04-01,Hors vacances,Monday,0
+4,2019-04-02,Hors vacances,Tuesday,0
+16,2019-04-03,Hors vacances,Wednesday,0
+125,2019-04-04,Hors vacances,Thursday,0
+225,2019-04-05,Hors vacances,Friday,0
+149,2019-04-06,Vacances de printemps,Saturday,1
+339,2019-04-07,Vacances de printemps,Sunday,1
+238,2019-04-08,Vacances de printemps,Monday,1
+340,2019-04-09,Vacances de printemps,Tuesday,1
+110,2019-04-10,Vacances de printemps,Wednesday,1
+126,2019-04-11,Vacances de printemps,Thursday,1
+311,2019-04-12,Vacances de printemps,Friday,1
+209,2019-04-13,Vacances de printemps,Saturday,2
+5,2019-04-14,Vacances de printemps,Sunday,2
+17,2019-04-15,Vacances de printemps,Monday,2
+18,2019-04-16,Vacances de printemps,Tuesday,2
+324,2019-04-17,Vacances de printemps,Wednesday,2
+226,2019-04-18,Vacances de printemps,Thursday,2
+150,2019-04-19,Vacances de printemps,Friday,2
+265,2019-04-20,Vacances de printemps,Saturday,3
+273,2019-04-21,Vacances de printemps,Sunday,3
+210,2019-04-22,Vacances de printemps,Monday,3
+30,2019-04-23,Vacances de printemps,Tuesday,2
+325,2019-04-24,Vacances de printemps,Wednesday,2
+163,2019-04-25,Vacances de printemps,Thursday,2
+134,2019-04-26,Vacances de printemps,Friday,2
+227,2019-04-27,Vacances de printemps,Saturday,2
+37,2019-04-28,Vacances de printemps,Sunday,2
+285,2019-04-29,Vacances de printemps,Monday,1
+127,2019-04-30,Vacances de printemps,Tuesday,1
+38,2019-05-01,Vacances de printemps,Wednesday,1
+228,2019-05-02,Vacances de printemps,Thursday,1
+254,2019-05-03,Vacances de printemps,Friday,1
+312,2019-05-04,Vacances de printemps,Saturday,1
+190,2019-05-05,Vacances de printemps,Sunday,1
+229,2019-05-06,Hors vacances,Monday,0
+239,2019-05-07,Hors vacances,Tuesday,0
+211,2019-05-08,Hors vacances,Wednesday,0
+297,2019-05-09,Hors vacances,Thursday,0
+135,2019-05-10,Hors vacances,Friday,0
+111,2019-05-11,Hors vacances,Saturday,0
+349,2019-05-12,Hors vacances,Sunday,0
+76,2019-05-13,Hors vacances,Monday,0
+118,2019-05-14,Hors vacances,Tuesday,0
+298,2019-05-15,Hors vacances,Wednesday,0
+119,2019-05-16,Hors vacances,Thursday,0
+136,2019-05-17,Hors vacances,Friday,0
+299,2019-05-18,Hors vacances,Saturday,0
+350,2019-05-19,Hors vacances,Sunday,0
+39,2019-05-20,Hors vacances,Monday,0
+351,2019-05-21,Hors vacances,Tuesday,0
+313,2019-05-22,Hors vacances,Wednesday,0
+300,2019-05-23,Hors vacances,Thursday,0
+286,2019-05-24,Hors vacances,Friday,0
+137,2019-05-25,Hors vacances,Saturday,0
+274,2019-05-26,Hors vacances,Sunday,0
+172,2019-05-27,Hors vacances,Monday,0
+352,2019-05-28,Hors vacances,Tuesday,0
+40,2019-05-29,Hors vacances,Wednesday,0
+120,2019-05-30,Pont de l'Ascension,Thursday,3
+212,2019-05-31,Pont de l'Ascension,Friday,3
+191,2019-06-01,Pont de l'Ascension,Saturday,3
+192,2019-06-02,Pont de l'Ascension,Sunday,3
+173,2019-06-03,Hors vacances,Monday,0
+77,2019-06-04,Hors vacances,Tuesday,0
+41,2019-06-05,Hors vacances,Wednesday,0
+128,2019-06-06,Hors vacances,Thursday,0
+138,2019-06-07,Hors vacances,Friday,0
+193,2019-06-08,Hors vacances,Saturday,0
+326,2019-06-09,Hors vacances,Sunday,0
+327,2019-06-10,Hors vacances,Monday,0
+31,2019-06-11,Hors vacances,Tuesday,0
+341,2019-06-12,Hors vacances,Wednesday,0
+139,2019-06-13,Hors vacances,Thursday,0
+112,2019-06-14,Hors vacances,Friday,0
+78,2019-06-15,Hors vacances,Saturday,0
+151,2019-06-16,Hors vacances,Sunday,0
+49,2019-06-17,Hors vacances,Monday,0
+301,2019-06-18,Hors vacances,Tuesday,0
+353,2019-06-19,Hors vacances,Wednesday,0
+50,2019-06-20,Hors vacances,Thursday,0
+6,2019-06-21,Hors vacances,Friday,0
+32,2019-06-22,Hors vacances,Saturday,0
+96,2019-06-23,Hors vacances,Sunday,0
+302,2019-06-24,Hors vacances,Monday,0
+129,2019-06-25,Hors vacances,Tuesday,0
+42,2019-06-26,Hors vacances,Wednesday,0
+19,2019-06-27,Hors vacances,Thursday,0
+79,2019-06-28,Hors vacances,Friday,0
+266,2019-06-29,Hors vacances,Saturday,0
+20,2019-06-30,Hors vacances,Sunday,0
+275,2019-07-01,Hors vacances,Monday,0
+314,2019-07-02,Hors vacances,Tuesday,0
+80,2019-07-03,Hors vacances,Wednesday,0
+21,2019-07-04,Hors vacances,Thursday,0
+51,2019-07-05,Hors vacances,Friday,0
+81,2019-07-06,Vacances d'été,Saturday,3
+240,2019-07-07,Vacances d'été,Sunday,3
+174,2019-07-08,Vacances d'été,Monday,3
+63,2019-07-09,Vacances d'été,Tuesday,3
+303,2019-07-10,Vacances d'été,Wednesday,3
+241,2019-07-11,Vacances d'été,Thursday,3
+22,2019-07-12,Vacances d'été,Friday,3
+354,2019-07-13,Vacances d'été,Saturday,3
+267,2019-07-14,Vacances d'été,Sunday,3
+194,2019-07-15,Vacances d'été,Monday,3
+287,2019-07-16,Vacances d'été,Tuesday,3
+268,2019-07-17,Vacances d'été,Wednesday,3
+213,2019-07-18,Vacances d'été,Thursday,3
+64,2019-07-19,Vacances d'été,Friday,3
+52,2019-07-20,Vacances d'été,Saturday,3
+214,2019-07-21,Vacances d'été,Sunday,3
+43,2019-07-22,Vacances d'été,Monday,3
+164,2019-07-23,Vacances d'été,Tuesday,3
+355,2019-07-24,Vacances d'été,Wednesday,3
+328,2019-07-25,Vacances d'été,Thursday,3
+140,2019-07-26,Vacances d'été,Friday,3
+242,2019-07-27,Vacances d'été,Saturday,3
+141,2019-07-28,Vacances d'été,Sunday,3
+130,2019-07-29,Vacances d'été,Monday,3
+23,2019-07-30,Vacances d'été,Tuesday,3
+342,2019-07-31,Vacances d'été,Wednesday,3
+44,2019-08-01,Vacances d'été,Thursday,3
+195,2019-08-02,Vacances d'été,Friday,3
+165,2019-08-03,Vacances d'été,Saturday,3
+166,2019-08-04,Vacances d'été,Sunday,3
+65,2019-08-05,Vacances d'été,Monday,3
+288,2019-08-06,Vacances d'été,Tuesday,3
+329,2019-08-07,Vacances d'été,Wednesday,3
+82,2019-08-08,Vacances d'été,Thursday,3
+215,2019-08-09,Vacances d'été,Friday,3
+255,2019-08-10,Vacances d'été,Saturday,3
+230,2019-08-11,Vacances d'été,Sunday,3
+216,2019-08-12,Vacances d'été,Monday,3
+243,2019-08-13,Vacances d'été,Tuesday,3
+343,2019-08-14,Vacances d'été,Wednesday,3
+356,2019-08-15,Vacances d'été,Thursday,3
+167,2019-08-16,Vacances d'été,Friday,3
+330,2019-08-17,Vacances d'été,Saturday,3
+83,2019-08-18,Vacances d'été,Sunday,3
+357,2019-08-19,Vacances d'été,Monday,3
+175,2019-08-20,Vacances d'été,Tuesday,3
+176,2019-08-21,Vacances d'été,Wednesday,3
+97,2019-08-22,Vacances d'été,Thursday,3
+331,2019-08-23,Vacances d'été,Friday,3
+66,2019-08-24,Vacances d'été,Saturday,3
+196,2019-08-25,Vacances d'été,Sunday,3
+53,2019-08-26,Vacances d'été,Monday,3
+67,2019-08-27,Vacances d'été,Tuesday,3
+244,2019-08-28,Vacances d'été,Wednesday,3
+358,2019-08-29,Vacances d'été,Thursday,3
+197,2019-08-30,Vacances d'été,Friday,3
+84,2019-08-31,Vacances d'été,Saturday,3
+68,2019-09-01,Vacances d'été,Sunday,3
+98,2019-09-02,Hors vacances,Monday,0
+113,2019-09-03,Hors vacances,Tuesday,0
+359,2019-09-04,Hors vacances,Wednesday,0
+54,2019-09-05,Hors vacances,Thursday,0
+85,2019-09-06,Hors vacances,Friday,0
+121,2019-09-07,Hors vacances,Saturday,0
+177,2019-09-08,Hors vacances,Sunday,0
+256,2019-09-09,Hors vacances,Monday,0
+55,2019-09-10,Hors vacances,Tuesday,0
+231,2019-09-11,Hors vacances,Wednesday,0
+152,2019-09-12,Hors vacances,Thursday,0
+198,2019-09-13,Hors vacances,Friday,0
+178,2019-09-14,Hors vacances,Saturday,0
+24,2019-09-15,Hors vacances,Sunday,0
+304,2019-09-16,Hors vacances,Monday,0
+360,2019-09-17,Hors vacances,Tuesday,0
+56,2019-09-18,Hors vacances,Wednesday,0
+153,2019-09-19,Hors vacances,Thursday,0
+179,2019-09-20,Hors vacances,Friday,0
+199,2019-09-21,Hors vacances,Saturday,0
+57,2019-09-22,Hors vacances,Sunday,0
+86,2019-09-23,Hors vacances,Monday,0
+257,2019-09-24,Hors vacances,Tuesday,0
+361,2019-09-25,Hors vacances,Wednesday,0
+87,2019-09-26,Hors vacances,Thursday,0
+258,2019-09-27,Hors vacances,Friday,0
+168,2019-09-28,Hors vacances,Saturday,0
+45,2019-09-29,Hors vacances,Sunday,0
+315,2019-09-30,Hors vacances,Monday,0
+69,2019-10-01,Hors vacances,Tuesday,0
+99,2019-10-02,Hors vacances,Wednesday,0
+332,2019-10-03,Hors vacances,Thursday,0
+217,2019-10-04,Hors vacances,Friday,0
+131,2019-10-05,Hors vacances,Saturday,0
+245,2019-10-06,Hors vacances,Sunday,0
+25,2019-10-07,Hors vacances,Monday,0
+344,2019-10-08,Hors vacances,Tuesday,0
+7,2019-10-09,Hors vacances,Wednesday,0
+333,2019-10-10,Hors vacances,Thursday,0
+305,2019-10-11,Hors vacances,Friday,0
+276,2019-10-12,Hors vacances,Saturday,0
+289,2019-10-13,Hors vacances,Sunday,0
+58,2019-10-14,Hors vacances,Monday,0
+200,2019-10-15,Hors vacances,Tuesday,0
+306,2019-10-16,Hors vacances,Wednesday,0
+334,2019-10-17,Hors vacances,Thursday,0
+259,2019-10-18,Hors vacances,Friday,0
+26,2019-10-19,Vacances de la Toussaint,Saturday,3
+8,2019-10-20,Vacances de la Toussaint,Sunday,3
+88,2019-10-21,Vacances de la Toussaint,Monday,3
+246,2019-10-22,Vacances de la Toussaint,Tuesday,3
+362,2019-10-23,Vacances de la Toussaint,Wednesday,3
+9,2019-10-24,Vacances de la Toussaint,Thursday,3
+154,2019-10-25,Vacances de la Toussaint,Friday,3
+201,2019-10-26,Vacances de la Toussaint,Saturday,3
+100,2019-10-27,Vacances de la Toussaint,Sunday,3
+247,2019-10-28,Vacances de la Toussaint,Monday,3
+142,2019-10-29,Vacances de la Toussaint,Tuesday,3
+290,2019-10-30,Vacances de la Toussaint,Wednesday,3
+89,2019-10-31,Vacances de la Toussaint,Thursday,3
+218,2019-11-01,Vacances de la Toussaint,Friday,3
+90,2019-11-02,Vacances de la Toussaint,Saturday,3
+335,2019-11-03,Vacances de la Toussaint,Sunday,3
+91,2019-11-04,Hors vacances,Monday,0
+219,2019-11-05,Hors vacances,Tuesday,0
+248,2019-11-06,Hors vacances,Wednesday,0
+132,2019-11-07,Hors vacances,Thursday,0
+70,2019-11-08,Hors vacances,Friday,0
+316,2019-11-09,Hors vacances,Saturday,0
+307,2019-11-10,Hors vacances,Sunday,0
+317,2019-11-11,Hors vacances,Monday,0
+155,2019-11-12,Hors vacances,Tuesday,0
+249,2019-11-13,Hors vacances,Wednesday,0
+71,2019-11-14,Hors vacances,Thursday,0
+291,2019-11-15,Hors vacances,Friday,0
+143,2019-11-16,Hors vacances,Saturday,0
+72,2019-11-17,Hors vacances,Sunday,0
+144,2019-11-18,Hors vacances,Monday,0
+10,2019-11-19,Hors vacances,Tuesday,0
+269,2019-11-20,Hors vacances,Wednesday,0
+277,2019-11-21,Hors vacances,Thursday,0
+27,2019-11-22,Hors vacances,Friday,0
+220,2019-11-23,Hors vacances,Saturday,0
+260,2019-11-24,Hors vacances,Sunday,0
+363,2019-11-25,Hors vacances,Monday,0
+101,2019-11-26,Hors vacances,Tuesday,0
+46,2019-11-27,Hors vacances,Wednesday,0
+145,2019-11-28,Hors vacances,Thursday,0
+336,2019-11-29,Hors vacances,Friday,0
+114,2019-11-30,Hors vacances,Saturday,0
+318,2019-12-01,Hors vacances,Sunday,0
+28,2019-12-02,Hors vacances,Monday,0
+156,2019-12-03,Hors vacances,Tuesday,0
+202,2019-12-04,Hors vacances,Wednesday,0
+278,2019-12-05,Hors vacances,Thursday,0
+157,2019-12-06,Hors vacances,Friday,0
+261,2019-12-07,Hors vacances,Saturday,0
+221,2019-12-08,Hors vacances,Sunday,0
+337,2019-12-09,Hors vacances,Monday,0
+122,2019-12-10,Hors vacances,Tuesday,0
+292,2019-12-11,Hors vacances,Wednesday,0
+345,2019-12-12,Hors vacances,Thursday,0
+33,2019-12-13,Hors vacances,Friday,0
+232,2019-12-14,Hors vacances,Saturday,0
+279,2019-12-15,Hors vacances,Sunday,0
+102,2019-12-16,Hors vacances,Monday,0
+158,2019-12-17,Hors vacances,Tuesday,0
+92,2019-12-18,Hors vacances,Wednesday,0
+11,2019-12-19,Hors vacances,Thursday,0
+280,2019-12-20,Hors vacances,Friday,0
+115,2019-12-21,Vacances de Noël,Saturday,3
+203,2019-12-22,Vacances de Noël,Sunday,3
+180,2019-12-23,Vacances de Noël,Monday,3
+364,2019-12-24,Vacances de Noël,Tuesday,3
+250,2019-12-25,Vacances de Noël,Wednesday,3
+73,2019-12-26,Vacances de Noël,Thursday,3
+59,2019-12-27,Vacances de Noël,Friday,3
+319,2019-12-28,Vacances de Noël,Saturday,3
+103,2019-12-29,Vacances de Noël,Sunday,3
+181,2019-12-30,Vacances de Noël,Monday,3
+204,2019-12-31,Vacances de Noël,Tuesday,3
+615,2020-01-01,Vacances de Noël,Wednesday,3
+591,2020-01-02,Vacances de Noël,Thursday,3
+403,2020-01-03,Vacances de Noël,Friday,3
+386,2020-01-04,Vacances de Noël,Saturday,3
+707,2020-01-05,Vacances de Noël,Sunday,3
+365,2020-01-06,Hors vacances,Monday,0
+485,2020-01-07,Hors vacances,Tuesday,0
+443,2020-01-08,Hors vacances,Wednesday,0
+550,2020-01-09,Hors vacances,Thursday,0
+708,2020-01-10,Hors vacances,Friday,0
+427,2020-01-11,Hors vacances,Saturday,0
+416,2020-01-12,Hors vacances,Sunday,0
+709,2020-01-13,Hors vacances,Monday,0
+444,2020-01-14,Hors vacances,Tuesday,0
+575,2020-01-15,Hors vacances,Wednesday,0
+366,2020-01-16,Hors vacances,Thursday,0
+662,2020-01-17,Hors vacances,Friday,0
+592,2020-01-18,Hors vacances,Saturday,0
+710,2020-01-19,Hors vacances,Sunday,0
+417,2020-01-20,Hors vacances,Monday,0
+629,2020-01-21,Hors vacances,Tuesday,0
+564,2020-01-22,Hors vacances,Wednesday,0
+522,2020-01-23,Hors vacances,Thursday,0
+486,2020-01-24,Hors vacances,Friday,0
+663,2020-01-25,Hors vacances,Saturday,0
+404,2020-01-26,Hors vacances,Sunday,0
+684,2020-01-27,Hors vacances,Monday,0
+616,2020-01-28,Hors vacances,Tuesday,0
+487,2020-01-29,Hors vacances,Wednesday,0
+711,2020-01-30,Hors vacances,Thursday,0
+630,2020-01-31,Hors vacances,Friday,0
+617,2020-02-01,Hors vacances,Saturday,0
+523,2020-02-02,Hors vacances,Sunday,0
+461,2020-02-03,Hors vacances,Monday,0
+387,2020-02-04,Hors vacances,Tuesday,0
+367,2020-02-05,Hors vacances,Wednesday,0
+712,2020-02-06,Hors vacances,Thursday,0
+418,2020-02-07,Hors vacances,Friday,0
+388,2020-02-08,Vacances d'hiver,Saturday,1
+462,2020-02-09,Vacances d'hiver,Sunday,1
+604,2020-02-10,Vacances d'hiver,Monday,1
+389,2020-02-11,Vacances d'hiver,Tuesday,1
+368,2020-02-12,Vacances d'hiver,Wednesday,1
+514,2020-02-13,Vacances d'hiver,Thursday,1
+419,2020-02-14,Vacances d'hiver,Friday,1
+673,2020-02-15,Vacances d'hiver,Saturday,2
+657,2020-02-16,Vacances d'hiver,Sunday,2
+576,2020-02-17,Vacances d'hiver,Monday,2
+658,2020-02-18,Vacances d'hiver,Tuesday,2
+405,2020-02-19,Vacances d'hiver,Wednesday,2
+593,2020-02-20,Vacances d'hiver,Thursday,2
+541,2020-02-21,Vacances d'hiver,Friday,2
+618,2020-02-22,Vacances d'hiver,Saturday,3
+697,2020-02-23,Vacances d'hiver,Sunday,3
+524,2020-02-24,Vacances d'hiver,Monday,2
+644,2020-02-25,Vacances d'hiver,Tuesday,2
+445,2020-02-26,Vacances d'hiver,Wednesday,2
+605,2020-02-27,Vacances d'hiver,Thursday,2
+390,2020-02-28,Vacances d'hiver,Friday,2
+698,2020-02-29,Vacances d'hiver,Saturday,2
+674,2020-03-01,Vacances d'hiver,Sunday,2
+577,2020-03-02,Vacances d'hiver,Monday,1
+645,2020-03-03,Vacances d'hiver,Tuesday,1
+646,2020-03-04,Vacances d'hiver,Wednesday,1
+488,2020-03-05,Vacances d'hiver,Thursday,1
+578,2020-03-06,Vacances d'hiver,Friday,1
+463,2020-03-07,Vacances d'hiver,Saturday,1
+369,2020-03-08,Vacances d'hiver,Sunday,1
+391,2020-03-09,Hors vacances,Monday,0
+699,2020-03-10,Hors vacances,Tuesday,0
+685,2020-03-11,Hors vacances,Wednesday,0
+392,2020-03-12,Hors vacances,Thursday,0
+619,2020-03-13,Hors vacances,Friday,0
+579,2020-03-14,Hors vacances,Saturday,0
+675,2020-03-15,Hors vacances,Sunday,0
+406,2020-03-16,Hors vacances,Monday,0
+370,2020-03-17,Hors vacances,Tuesday,0
+565,2020-03-18,Hors vacances,Wednesday,0
+631,2020-03-19,Hors vacances,Thursday,0
+428,2020-03-20,Hors vacances,Friday,0
+515,2020-03-21,Hors vacances,Saturday,0
+620,2020-03-22,Hors vacances,Sunday,0
+566,2020-03-23,Hors vacances,Monday,0
+686,2020-03-24,Hors vacances,Tuesday,0
+542,2020-03-25,Hors vacances,Wednesday,0
+393,2020-03-26,Hors vacances,Thursday,0
+580,2020-03-27,Hors vacances,Friday,0
+407,2020-03-28,Hors vacances,Saturday,0
+621,2020-03-29,Hors vacances,Sunday,0
+713,2020-03-30,Hors vacances,Monday,0
+676,2020-03-31,Hors vacances,Tuesday,0
+714,2020-04-01,Hors vacances,Wednesday,0
+429,2020-04-02,Hors vacances,Thursday,0
+500,2020-04-03,Hors vacances,Friday,0
+477,2020-04-04,Vacances de printemps,Saturday,1
+543,2020-04-05,Vacances de printemps,Sunday,1
+525,2020-04-06,Vacances de printemps,Monday,1
+647,2020-04-07,Vacances de printemps,Tuesday,1
+464,2020-04-08,Vacances de printemps,Wednesday,1
+394,2020-04-09,Vacances de printemps,Thursday,1
+430,2020-04-10,Vacances de printemps,Friday,1
+431,2020-04-11,Vacances de printemps,Saturday,2
+420,2020-04-12,Vacances de printemps,Sunday,2
+622,2020-04-13,Vacances de printemps,Monday,2
+594,2020-04-14,Vacances de printemps,Tuesday,2
+567,2020-04-15,Vacances de printemps,Wednesday,2
+664,2020-04-16,Vacances de printemps,Thursday,2
+371,2020-04-17,Vacances de printemps,Friday,2
+446,2020-04-18,Vacances de printemps,Saturday,3
+526,2020-04-19,Vacances de printemps,Sunday,3
+372,2020-04-20,Vacances de printemps,Monday,2
+606,2020-04-21,Vacances de printemps,Tuesday,2
+665,2020-04-22,Vacances de printemps,Wednesday,2
+395,2020-04-23,Vacances de printemps,Thursday,2
+501,2020-04-24,Vacances de printemps,Friday,2
+527,2020-04-25,Vacances de printemps,Saturday,2
+551,2020-04-26,Vacances de printemps,Sunday,2
+421,2020-04-27,Vacances de printemps,Monday,1
+544,2020-04-28,Vacances de printemps,Tuesday,1
+432,2020-04-29,Vacances de printemps,Wednesday,1
+516,2020-04-30,Vacances de printemps,Thursday,1
+648,2020-05-01,Vacances de printemps,Friday,1
+552,2020-05-02,Vacances de printemps,Saturday,1
+553,2020-05-03,Vacances de printemps,Sunday,1
+396,2020-05-04,Hors vacances,Monday,0
+447,2020-05-05,Hors vacances,Tuesday,0
+502,2020-05-06,Hors vacances,Wednesday,0
+632,2020-05-07,Hors vacances,Thursday,0
+433,2020-05-08,Hors vacances,Friday,0
+378,2020-05-09,Hors vacances,Saturday,0
+503,2020-05-10,Hors vacances,Sunday,0
+666,2020-05-11,Hors vacances,Monday,0
+581,2020-05-12,Hors vacances,Tuesday,0
+582,2020-05-13,Hors vacances,Wednesday,0
+489,2020-05-14,Hors vacances,Thursday,0
+373,2020-05-15,Hors vacances,Friday,0
+687,2020-05-16,Hors vacances,Saturday,0
+448,2020-05-17,Hors vacances,Sunday,0
+449,2020-05-18,Hors vacances,Monday,0
+633,2020-05-19,Hors vacances,Tuesday,0
+677,2020-05-20,Hors vacances,Wednesday,0
+528,2020-05-21,Pont de l'Ascension,Thursday,3
+434,2020-05-22,Pont de l'Ascension,Friday,3
+688,2020-05-23,Pont de l'Ascension,Saturday,3
+450,2020-05-24,Pont de l'Ascension,Sunday,3
+689,2020-05-25,Hors vacances,Monday,0
+435,2020-05-26,Hors vacances,Tuesday,0
+379,2020-05-27,Hors vacances,Wednesday,0
+623,2020-05-28,Hors vacances,Thursday,0
+451,2020-05-29,Hors vacances,Friday,0
+490,2020-05-30,Hors vacances,Saturday,0
+667,2020-05-31,Hors vacances,Sunday,0
+649,2020-06-01,Hors vacances,Monday,0
+452,2020-06-02,Hors vacances,Tuesday,0
+583,2020-06-03,Hors vacances,Wednesday,0
+659,2020-06-04,Hors vacances,Thursday,0
+700,2020-06-05,Hors vacances,Friday,0
+607,2020-06-06,Hors vacances,Saturday,0
+380,2020-06-07,Hors vacances,Sunday,0
+465,2020-06-08,Hors vacances,Monday,0
+381,2020-06-09,Hors vacances,Tuesday,0
+650,2020-06-10,Hors vacances,Wednesday,0
+491,2020-06-11,Hors vacances,Thursday,0
+701,2020-06-12,Hors vacances,Friday,0
+492,2020-06-13,Hors vacances,Saturday,0
+690,2020-06-14,Hors vacances,Sunday,0
+678,2020-06-15,Hors vacances,Monday,0
+568,2020-06-16,Hors vacances,Tuesday,0
+569,2020-06-17,Hors vacances,Wednesday,0
+453,2020-06-18,Hors vacances,Thursday,0
+397,2020-06-19,Hors vacances,Friday,0
+691,2020-06-20,Hors vacances,Saturday,0
+454,2020-06-21,Hors vacances,Sunday,0
+715,2020-06-22,Hors vacances,Monday,0
+529,2020-06-23,Hors vacances,Tuesday,0
+455,2020-06-24,Hors vacances,Wednesday,0
+408,2020-06-25,Hors vacances,Thursday,0
+466,2020-06-26,Hors vacances,Friday,0
+422,2020-06-27,Hors vacances,Saturday,0
+530,2020-06-28,Hors vacances,Sunday,0
+668,2020-06-29,Hors vacances,Monday,0
+531,2020-06-30,Hors vacances,Tuesday,0
+382,2020-07-01,Hors vacances,Wednesday,0
+554,2020-07-02,Hors vacances,Thursday,0
+624,2020-07-03,Hors vacances,Friday,0
+634,2020-07-04,Vacances d'été,Saturday,3
+456,2020-07-05,Vacances d'été,Sunday,3
+555,2020-07-06,Vacances d'été,Monday,3
+409,2020-07-07,Vacances d'été,Tuesday,3
+669,2020-07-08,Vacances d'été,Wednesday,3
+716,2020-07-09,Vacances d'été,Thursday,3
+717,2020-07-10,Vacances d'été,Friday,3
+383,2020-07-11,Vacances d'été,Saturday,3
+467,2020-07-12,Vacances d'été,Sunday,3
+635,2020-07-13,Vacances d'été,Monday,3
+608,2020-07-14,Vacances d'été,Tuesday,3
+595,2020-07-15,Vacances d'été,Wednesday,3
+545,2020-07-16,Vacances d'été,Thursday,3
+468,2020-07-17,Vacances d'été,Friday,3
+625,2020-07-18,Vacances d'été,Saturday,3
+532,2020-07-19,Vacances d'été,Sunday,3
+609,2020-07-20,Vacances d'été,Monday,3
+504,2020-07-21,Vacances d'été,Tuesday,3
+610,2020-07-22,Vacances d'été,Wednesday,3
+702,2020-07-23,Vacances d'été,Thursday,3
+651,2020-07-24,Vacances d'été,Friday,3
+718,2020-07-25,Vacances d'été,Saturday,3
+533,2020-07-26,Vacances d'été,Sunday,3
+398,2020-07-27,Vacances d'été,Monday,3
+570,2020-07-28,Vacances d'été,Tuesday,3
+719,2020-07-29,Vacances d'été,Wednesday,3
+410,2020-07-30,Vacances d'été,Thursday,3
+457,2020-07-31,Vacances d'été,Friday,3
+423,2020-08-01,Vacances d'été,Saturday,3
+703,2020-08-02,Vacances d'été,Sunday,3
+556,2020-08-03,Vacances d'été,Monday,3
+652,2020-08-04,Vacances d'été,Tuesday,3
+478,2020-08-05,Vacances d'été,Wednesday,3
+493,2020-08-06,Vacances d'été,Thursday,3
+546,2020-08-07,Vacances d'été,Friday,3
+505,2020-08-08,Vacances d'été,Saturday,3
+571,2020-08-09,Vacances d'été,Sunday,3
+572,2020-08-10,Vacances d'été,Monday,3
+534,2020-08-11,Vacances d'été,Tuesday,3
+626,2020-08-12,Vacances d'été,Wednesday,3
+720,2020-08-13,Vacances d'été,Thursday,3
+436,2020-08-14,Vacances d'été,Friday,3
+374,2020-08-15,Vacances d'été,Saturday,3
+704,2020-08-16,Vacances d'été,Sunday,3
+584,2020-08-17,Vacances d'été,Monday,3
+437,2020-08-18,Vacances d'été,Tuesday,3
+535,2020-08-19,Vacances d'été,Wednesday,3
+458,2020-08-20,Vacances d'été,Thursday,3
+721,2020-08-21,Vacances d'été,Friday,3
+438,2020-08-22,Vacances d'été,Saturday,3
+670,2020-08-23,Vacances d'été,Sunday,3
+692,2020-08-24,Vacances d'été,Monday,3
+557,2020-08-25,Vacances d'été,Tuesday,3
+679,2020-08-26,Vacances d'été,Wednesday,3
+536,2020-08-27,Vacances d'été,Thursday,3
+611,2020-08-28,Vacances d'été,Friday,3
+411,2020-08-29,Vacances d'été,Saturday,3
+693,2020-08-30,Vacances d'été,Sunday,3
+636,2020-08-31,Vacances d'été,Monday,3
+680,2020-09-01,Hors vacances,Tuesday,0
+596,2020-09-02,Hors vacances,Wednesday,0
+612,2020-09-03,Hors vacances,Thursday,0
+705,2020-09-04,Hors vacances,Friday,0
+653,2020-09-05,Hors vacances,Saturday,0
+439,2020-09-06,Hors vacances,Sunday,0
+547,2020-09-07,Hors vacances,Monday,0
+479,2020-09-08,Hors vacances,Tuesday,0
+459,2020-09-09,Hors vacances,Wednesday,0
+573,2020-09-10,Hors vacances,Thursday,0
+469,2020-09-11,Hors vacances,Friday,0
+585,2020-09-12,Hors vacances,Saturday,0
+494,2020-09-13,Hors vacances,Sunday,0
+517,2020-09-14,Hors vacances,Monday,0
+637,2020-09-15,Hors vacances,Tuesday,0
+558,2020-09-16,Hors vacances,Wednesday,0
+480,2020-09-17,Hors vacances,Thursday,0
+597,2020-09-18,Hors vacances,Friday,0
+506,2020-09-19,Hors vacances,Saturday,0
+722,2020-09-20,Hors vacances,Sunday,0
+559,2020-09-21,Hors vacances,Monday,0
+518,2020-09-22,Hors vacances,Tuesday,0
+507,2020-09-23,Hors vacances,Wednesday,0
+508,2020-09-24,Hors vacances,Thursday,0
+440,2020-09-25,Hors vacances,Friday,0
+519,2020-09-26,Hors vacances,Saturday,0
+441,2020-09-27,Hors vacances,Sunday,0
+723,2020-09-28,Hors vacances,Monday,0
+375,2020-09-29,Hors vacances,Tuesday,0
+520,2020-09-30,Hors vacances,Wednesday,0
+671,2020-10-01,Hors vacances,Thursday,0
+495,2020-10-02,Hors vacances,Friday,0
+660,2020-10-03,Hors vacances,Saturday,0
+424,2020-10-04,Hors vacances,Sunday,0
+598,2020-10-05,Hors vacances,Monday,0
+384,2020-10-06,Hors vacances,Tuesday,0
+681,2020-10-07,Hors vacances,Wednesday,0
+425,2020-10-08,Hors vacances,Thursday,0
+399,2020-10-09,Hors vacances,Friday,0
+682,2020-10-10,Hors vacances,Saturday,0
+400,2020-10-11,Hors vacances,Sunday,0
+509,2020-10-12,Hors vacances,Monday,0
+385,2020-10-13,Hors vacances,Tuesday,0
+586,2020-10-14,Hors vacances,Wednesday,0
+510,2020-10-15,Hors vacances,Thursday,0
+401,2020-10-16,Hors vacances,Friday,0
+376,2020-10-17,Vacances de la Toussaint,Saturday,3
+654,2020-10-18,Vacances de la Toussaint,Sunday,3
+511,2020-10-19,Vacances de la Toussaint,Monday,3
+412,2020-10-20,Vacances de la Toussaint,Tuesday,3
+587,2020-10-21,Vacances de la Toussaint,Wednesday,3
+574,2020-10-22,Vacances de la Toussaint,Thursday,3
+627,2020-10-23,Vacances de la Toussaint,Friday,3
+706,2020-10-24,Vacances de la Toussaint,Saturday,3
+481,2020-10-25,Vacances de la Toussaint,Sunday,3
+496,2020-10-26,Vacances de la Toussaint,Monday,3
+724,2020-10-27,Vacances de la Toussaint,Tuesday,3
+377,2020-10-28,Vacances de la Toussaint,Wednesday,3
+683,2020-10-29,Vacances de la Toussaint,Thursday,3
+470,2020-10-30,Vacances de la Toussaint,Friday,3
+613,2020-10-31,Vacances de la Toussaint,Saturday,3
+638,2020-11-01,Vacances de la Toussaint,Sunday,3
+537,2020-11-02,Hors vacances,Monday,0
+512,2020-11-03,Hors vacances,Tuesday,0
+471,2020-11-04,Hors vacances,Wednesday,0
+694,2020-11-05,Hors vacances,Thursday,0
+599,2020-11-06,Hors vacances,Friday,0
+413,2020-11-07,Hors vacances,Saturday,0
+600,2020-11-08,Hors vacances,Sunday,0
+725,2020-11-09,Hors vacances,Monday,0
+695,2020-11-10,Hors vacances,Tuesday,0
+538,2020-11-11,Hors vacances,Wednesday,0
+482,2020-11-12,Hors vacances,Thursday,0
+560,2020-11-13,Hors vacances,Friday,0
+726,2020-11-14,Hors vacances,Saturday,0
+727,2020-11-15,Hors vacances,Sunday,0
+728,2020-11-16,Hors vacances,Monday,0
+588,2020-11-17,Hors vacances,Tuesday,0
+729,2020-11-18,Hors vacances,Wednesday,0
+655,2020-11-19,Hors vacances,Thursday,0
+730,2020-11-20,Hors vacances,Friday,0
+460,2020-11-21,Hors vacances,Saturday,0
+639,2020-11-22,Hors vacances,Sunday,0
+672,2020-11-23,Hors vacances,Monday,0
+497,2020-11-24,Hors vacances,Tuesday,0
+640,2020-11-25,Hors vacances,Wednesday,0
+641,2020-11-26,Hors vacances,Thursday,0
+498,2020-11-27,Hors vacances,Friday,0
+628,2020-11-28,Hors vacances,Saturday,0
+521,2020-11-29,Hors vacances,Sunday,0
+414,2020-11-30,Hors vacances,Monday,0
+472,2020-12-01,Hors vacances,Tuesday,0
+696,2020-12-02,Hors vacances,Wednesday,0
+426,2020-12-03,Hors vacances,Thursday,0
+601,2020-12-04,Hors vacances,Friday,0
+589,2020-12-05,Hors vacances,Saturday,0
+402,2020-12-06,Hors vacances,Sunday,0
+473,2020-12-07,Hors vacances,Monday,0
+474,2020-12-08,Hors vacances,Tuesday,0
+661,2020-12-09,Hors vacances,Wednesday,0
+602,2020-12-10,Hors vacances,Thursday,0
+548,2020-12-11,Hors vacances,Friday,0
+483,2020-12-12,Hors vacances,Saturday,0
+642,2020-12-13,Hors vacances,Sunday,0
+475,2020-12-14,Hors vacances,Monday,0
+539,2020-12-15,Hors vacances,Tuesday,0
+540,2020-12-16,Hors vacances,Wednesday,0
+656,2020-12-17,Hors vacances,Thursday,0
+513,2020-12-18,Hors vacances,Friday,0
+484,2020-12-19,Vacances de Noël,Saturday,3
+561,2020-12-20,Vacances de Noël,Sunday,3
+590,2020-12-21,Vacances de Noël,Monday,3
+415,2020-12-22,Vacances de Noël,Tuesday,3
+643,2020-12-23,Vacances de Noël,Wednesday,3
+614,2020-12-24,Vacances de Noël,Thursday,3
+562,2020-12-25,Vacances de Noël,Friday,3
+476,2020-12-26,Vacances de Noël,Saturday,3
+549,2020-12-27,Vacances de Noël,Sunday,3
+499,2020-12-28,Vacances de Noël,Monday,3
+563,2020-12-29,Vacances de Noël,Tuesday,3
+603,2020-12-30,Vacances de Noël,Wednesday,3
+442,2020-12-31,Vacances de Noël,Thursday,3
+979,2021-01-01,Vacances de Noël,Friday,3
+911,2021-01-02,Vacances de Noël,Saturday,3
+745,2021-01-03,Vacances de Noël,Sunday,3
+963,2021-01-04,Hors vacances,Monday,0
+837,2021-01-05,Hors vacances,Tuesday,0
+1067,2021-01-06,Hors vacances,Wednesday,0
+801,2021-01-07,Hors vacances,Thursday,0
+813,2021-01-08,Hors vacances,Friday,0
+849,2021-01-09,Hors vacances,Saturday,0
+936,2021-01-10,Hors vacances,Sunday,0
+794,2021-01-11,Hors vacances,Monday,0
+1068,2021-01-12,Hors vacances,Tuesday,0
+937,2021-01-13,Hors vacances,Wednesday,0
+881,2021-01-14,Hors vacances,Thursday,0
+938,2021-01-15,Hors vacances,Friday,0
+882,2021-01-16,Hors vacances,Saturday,0
+883,2021-01-17,Hors vacances,Sunday,0
+731,2021-01-18,Hors vacances,Monday,0
+939,2021-01-19,Hors vacances,Tuesday,0
+912,2021-01-20,Hors vacances,Wednesday,0
+1086,2021-01-21,Hors vacances,Thursday,0
+732,2021-01-22,Hors vacances,Friday,0
+1087,2021-01-23,Hors vacances,Saturday,0
+1057,2021-01-24,Hors vacances,Sunday,0
+1032,2021-01-25,Hors vacances,Monday,0
+1040,2021-01-26,Hors vacances,Tuesday,0
+1069,2021-01-27,Hors vacances,Wednesday,0
+814,2021-01-28,Hors vacances,Thursday,0
+746,2021-01-29,Hors vacances,Friday,0
+759,2021-01-30,Hors vacances,Saturday,0
+747,2021-01-31,Hors vacances,Sunday,0
+733,2021-02-01,Hors vacances,Monday,0
+1009,2021-02-02,Hors vacances,Tuesday,0
+1041,2021-02-03,Hors vacances,Wednesday,0
+748,2021-02-04,Hors vacances,Thursday,0
+760,2021-02-05,Hors vacances,Friday,0
+1042,2021-02-06,Vacances d'hiver,Saturday,1
+1043,2021-02-07,Vacances d'hiver,Sunday,1
+896,2021-02-08,Vacances d'hiver,Monday,1
+897,2021-02-09,Vacances d'hiver,Tuesday,1
+884,2021-02-10,Vacances d'hiver,Wednesday,1
+802,2021-02-11,Vacances d'hiver,Thursday,1
+850,2021-02-12,Vacances d'hiver,Friday,1
+1010,2021-02-13,Vacances d'hiver,Saturday,2
+913,2021-02-14,Vacances d'hiver,Sunday,2
+838,2021-02-15,Vacances d'hiver,Monday,2
+1033,2021-02-16,Vacances d'hiver,Tuesday,2
+980,2021-02-17,Vacances d'hiver,Wednesday,2
+924,2021-02-18,Vacances d'hiver,Thursday,2
+851,2021-02-19,Vacances d'hiver,Friday,2
+827,2021-02-20,Vacances d'hiver,Saturday,3
+839,2021-02-21,Vacances d'hiver,Sunday,3
+925,2021-02-22,Vacances d'hiver,Monday,2
+914,2021-02-23,Vacances d'hiver,Tuesday,2
+852,2021-02-24,Vacances d'hiver,Wednesday,2
+981,2021-02-25,Vacances d'hiver,Thursday,2
+803,2021-02-26,Vacances d'hiver,Friday,2
+885,2021-02-27,Vacances d'hiver,Saturday,2
+940,2021-02-28,Vacances d'hiver,Sunday,2
+804,2021-03-01,Vacances d'hiver,Monday,1
+970,2021-03-02,Vacances d'hiver,Tuesday,1
+749,2021-03-03,Vacances d'hiver,Wednesday,1
+828,2021-03-04,Vacances d'hiver,Thursday,1
+1070,2021-03-05,Vacances d'hiver,Friday,1
+1022,2021-03-06,Vacances d'hiver,Saturday,1
+1044,2021-03-07,Vacances d'hiver,Sunday,1
+941,2021-03-08,Hors vacances,Monday,0
+815,2021-03-09,Hors vacances,Tuesday,0
+942,2021-03-10,Hors vacances,Wednesday,0
+816,2021-03-11,Hors vacances,Thursday,0
+775,2021-03-12,Hors vacances,Friday,0
+943,2021-03-13,Hors vacances,Saturday,0
+993,2021-03-14,Hors vacances,Sunday,0
+870,2021-03-15,Hors vacances,Monday,0
+761,2021-03-16,Hors vacances,Tuesday,0
+1011,2021-03-17,Hors vacances,Wednesday,0
+994,2021-03-18,Hors vacances,Thursday,0
+817,2021-03-19,Hors vacances,Friday,0
+750,2021-03-20,Hors vacances,Saturday,0
+971,2021-03-21,Hors vacances,Sunday,0
+751,2021-03-22,Hors vacances,Monday,0
+840,2021-03-23,Hors vacances,Tuesday,0
+829,2021-03-24,Hors vacances,Wednesday,0
+776,2021-03-25,Hors vacances,Thursday,0
+964,2021-03-26,Hors vacances,Friday,0
+886,2021-03-27,Hors vacances,Saturday,0
+853,2021-03-28,Hors vacances,Sunday,0
+944,2021-03-29,Hors vacances,Monday,0
+945,2021-03-30,Hors vacances,Tuesday,0
+972,2021-03-31,Hors vacances,Wednesday,0
+1088,2021-04-01,Hors vacances,Thursday,0
+830,2021-04-02,Hors vacances,Friday,0
+861,2021-04-03,Hors vacances,Saturday,0
+1034,2021-04-04,Hors vacances,Sunday,0
+898,2021-04-05,Hors vacances,Monday,0
+973,2021-04-06,Hors vacances,Tuesday,0
+871,2021-04-07,Hors vacances,Wednesday,0
+887,2021-04-08,Hors vacances,Thursday,0
+777,2021-04-09,Hors vacances,Friday,0
+805,2021-04-10,Vacances de printemps,Saturday,1
+995,2021-04-11,Vacances de printemps,Sunday,1
+752,2021-04-12,Vacances de printemps,Monday,1
+982,2021-04-13,Vacances de printemps,Tuesday,1
+841,2021-04-14,Vacances de printemps,Wednesday,1
+915,2021-04-15,Vacances de printemps,Thursday,1
+806,2021-04-16,Vacances de printemps,Friday,1
+854,2021-04-17,Vacances de printemps,Saturday,2
+778,2021-04-18,Vacances de printemps,Sunday,2
+842,2021-04-19,Vacances de printemps,Monday,2
+1058,2021-04-20,Vacances de printemps,Tuesday,2
+734,2021-04-21,Vacances de printemps,Wednesday,2
+762,2021-04-22,Vacances de printemps,Thursday,2
+1045,2021-04-23,Vacances de printemps,Friday,2
+965,2021-04-24,Vacances de printemps,Saturday,3
+735,2021-04-25,Vacances de printemps,Sunday,3
+795,2021-04-26,Vacances de printemps,Monday,2
+926,2021-04-27,Vacances de printemps,Tuesday,2
+1023,2021-04-28,Vacances de printemps,Wednesday,2
+779,2021-04-29,Vacances de printemps,Thursday,2
+1012,2021-04-30,Vacances de printemps,Friday,2
+1071,2021-05-01,Vacances de printemps,Saturday,2
+996,2021-05-02,Vacances de printemps,Sunday,2
+1024,2021-05-03,Vacances de printemps,Monday,1
+916,2021-05-04,Vacances de printemps,Tuesday,1
+843,2021-05-05,Vacances de printemps,Wednesday,1
+855,2021-05-06,Vacances de printemps,Thursday,1
+927,2021-05-07,Vacances de printemps,Friday,1
+946,2021-05-08,Vacances de printemps,Saturday,1
+983,2021-05-09,Vacances de printemps,Sunday,1
+1072,2021-05-10,Hors vacances,Monday,0
+917,2021-05-11,Hors vacances,Tuesday,0
+1013,2021-05-12,Hors vacances,Wednesday,0
+1059,2021-05-13,Pont de l'Ascension,Thursday,3
+818,2021-05-14,Pont de l'Ascension,Friday,3
+947,2021-05-15,Pont de l'Ascension,Saturday,3
+1046,2021-05-16,Pont de l'Ascension,Sunday,3
+819,2021-05-17,Pont de l'Ascension,Monday,3
+997,2021-05-18,Hors vacances,Tuesday,0
+998,2021-05-19,Hors vacances,Wednesday,0
+844,2021-05-20,Hors vacances,Thursday,0
+899,2021-05-21,Hors vacances,Friday,0
+888,2021-05-22,Hors vacances,Saturday,0
+807,2021-05-23,Hors vacances,Sunday,0
+984,2021-05-24,Hors vacances,Monday,0
+1025,2021-05-25,Hors vacances,Tuesday,0
+1089,2021-05-26,Hors vacances,Wednesday,0
+856,2021-05-27,Hors vacances,Thursday,0
+862,2021-05-28,Hors vacances,Friday,0
+948,2021-05-29,Hors vacances,Saturday,0
+820,2021-05-30,Hors vacances,Sunday,0
+863,2021-05-31,Hors vacances,Monday,0
+763,2021-06-01,Hors vacances,Tuesday,0
+928,2021-06-02,Hors vacances,Wednesday,0
+808,2021-06-03,Hors vacances,Thursday,0
+1073,2021-06-04,Hors vacances,Friday,0
+1074,2021-06-05,Hors vacances,Saturday,0
+1075,2021-06-06,Hors vacances,Sunday,0
+1047,2021-06-07,Hors vacances,Monday,0
+999,2021-06-08,Hors vacances,Tuesday,0
+831,2021-06-09,Hors vacances,Wednesday,0
+821,2021-06-10,Hors vacances,Thursday,0
+832,2021-06-11,Hors vacances,Friday,0
+736,2021-06-12,Hors vacances,Saturday,0
+864,2021-06-13,Hors vacances,Sunday,0
+1014,2021-06-14,Hors vacances,Monday,0
+1000,2021-06-15,Hors vacances,Tuesday,0
+1035,2021-06-16,Hors vacances,Wednesday,0
+1090,2021-06-17,Hors vacances,Thursday,0
+872,2021-06-18,Hors vacances,Friday,0
+1060,2021-06-19,Hors vacances,Saturday,0
+900,2021-06-20,Hors vacances,Sunday,0
+929,2021-06-21,Hors vacances,Monday,0
+918,2021-06-22,Hors vacances,Tuesday,0
+1061,2021-06-23,Hors vacances,Wednesday,0
+1062,2021-06-24,Hors vacances,Thursday,0
+753,2021-06-25,Hors vacances,Friday,0
+901,2021-06-26,Hors vacances,Saturday,0
+1091,2021-06-27,Hors vacances,Sunday,0
+949,2021-06-28,Hors vacances,Monday,0
+1076,2021-06-29,Hors vacances,Tuesday,0
+889,2021-06-30,Hors vacances,Wednesday,0
+1077,2021-07-01,Hors vacances,Thursday,0
+985,2021-07-02,Hors vacances,Friday,0
+1063,2021-07-03,Hors vacances,Saturday,0
+919,2021-07-04,Hors vacances,Sunday,0
+920,2021-07-05,Hors vacances,Monday,0
+873,2021-07-06,Vacances d'été,Tuesday,3
+874,2021-07-07,Vacances d'été,Wednesday,3
+986,2021-07-08,Vacances d'été,Thursday,3
+845,2021-07-09,Vacances d'été,Friday,3
+974,2021-07-10,Vacances d'été,Saturday,3
+764,2021-07-11,Vacances d'été,Sunday,3
+1078,2021-07-12,Vacances d'été,Monday,3
+780,2021-07-13,Vacances d'été,Tuesday,3
+1036,2021-07-14,Vacances d'été,Wednesday,3
+890,2021-07-15,Vacances d'été,Thursday,3
+809,2021-07-16,Vacances d'été,Friday,3
+1048,2021-07-17,Vacances d'été,Saturday,3
+975,2021-07-18,Vacances d'été,Sunday,3
+1001,2021-07-19,Vacances d'été,Monday,3
+737,2021-07-20,Vacances d'été,Tuesday,3
+950,2021-07-21,Vacances d'été,Wednesday,3
+822,2021-07-22,Vacances d'été,Thursday,3
+781,2021-07-23,Vacances d'été,Friday,3
+857,2021-07-24,Vacances d'été,Saturday,3
+1002,2021-07-25,Vacances d'été,Sunday,3
+1015,2021-07-26,Vacances d'été,Monday,3
+765,2021-07-27,Vacances d'été,Tuesday,3
+891,2021-07-28,Vacances d'été,Wednesday,3
+902,2021-07-29,Vacances d'été,Thursday,3
+930,2021-07-30,Vacances d'été,Friday,3
+823,2021-07-31,Vacances d'été,Saturday,3
+921,2021-08-01,Vacances d'été,Sunday,3
+824,2021-08-02,Vacances d'été,Monday,3
+1079,2021-08-03,Vacances d'été,Tuesday,3
+1064,2021-08-04,Vacances d'été,Wednesday,3
+875,2021-08-05,Vacances d'été,Thursday,3
+987,2021-08-06,Vacances d'été,Friday,3
+796,2021-08-07,Vacances d'été,Saturday,3
+966,2021-08-08,Vacances d'été,Sunday,3
+1049,2021-08-09,Vacances d'été,Monday,3
+931,2021-08-10,Vacances d'été,Tuesday,3
+782,2021-08-11,Vacances d'été,Wednesday,3
+1092,2021-08-12,Vacances d'été,Thursday,3
+766,2021-08-13,Vacances d'été,Friday,3
+865,2021-08-14,Vacances d'été,Saturday,3
+797,2021-08-15,Vacances d'été,Sunday,3
+1003,2021-08-16,Vacances d'été,Monday,3
+1016,2021-08-17,Vacances d'été,Tuesday,3
+976,2021-08-18,Vacances d'été,Wednesday,3
+1004,2021-08-19,Vacances d'été,Thursday,3
+932,2021-08-20,Vacances d'été,Friday,3
+1050,2021-08-21,Vacances d'été,Saturday,3
+951,2021-08-22,Vacances d'été,Sunday,3
+1005,2021-08-23,Vacances d'été,Monday,3
+858,2021-08-24,Vacances d'été,Tuesday,3
+903,2021-08-25,Vacances d'été,Wednesday,3
+810,2021-08-26,Vacances d'été,Thursday,3
+811,2021-08-27,Vacances d'été,Friday,3
+952,2021-08-28,Vacances d'été,Saturday,3
+953,2021-08-29,Vacances d'été,Sunday,3
+1017,2021-08-30,Vacances d'été,Monday,3
+754,2021-08-31,Vacances d'été,Tuesday,3
+738,2021-09-01,Hors vacances,Wednesday,0
+922,2021-09-02,Hors vacances,Thursday,0
+1051,2021-09-03,Hors vacances,Friday,0
+988,2021-09-04,Hors vacances,Saturday,0
+767,2021-09-05,Hors vacances,Sunday,0
+977,2021-09-06,Hors vacances,Monday,0
+846,2021-09-07,Hors vacances,Tuesday,0
+1080,2021-09-08,Hors vacances,Wednesday,0
+833,2021-09-09,Hors vacances,Thursday,0
+1037,2021-09-10,Hors vacances,Friday,0
+866,2021-09-11,Hors vacances,Saturday,0
+1006,2021-09-12,Hors vacances,Sunday,0
+812,2021-09-13,Hors vacances,Monday,0
+954,2021-09-14,Hors vacances,Tuesday,0
+783,2021-09-15,Hors vacances,Wednesday,0
+892,2021-09-16,Hors vacances,Thursday,0
+893,2021-09-17,Hors vacances,Friday,0
+1052,2021-09-18,Hors vacances,Saturday,0
+798,2021-09-19,Hors vacances,Sunday,0
+1018,2021-09-20,Hors vacances,Monday,0
+955,2021-09-21,Hors vacances,Tuesday,0
+1026,2021-09-22,Hors vacances,Wednesday,0
+768,2021-09-23,Hors vacances,Thursday,0
+825,2021-09-24,Hors vacances,Friday,0
+826,2021-09-25,Hors vacances,Saturday,0
+1093,2021-09-26,Hors vacances,Sunday,0
+1038,2021-09-27,Hors vacances,Monday,0
+784,2021-09-28,Hors vacances,Tuesday,0
+785,2021-09-29,Hors vacances,Wednesday,0
+1019,2021-09-30,Hors vacances,Thursday,0
+859,2021-10-01,Hors vacances,Friday,0
+847,2021-10-02,Hors vacances,Saturday,0
+1065,2021-10-03,Hors vacances,Sunday,0
+876,2021-10-04,Hors vacances,Monday,0
+786,2021-10-05,Hors vacances,Tuesday,0
+739,2021-10-06,Hors vacances,Wednesday,0
+799,2021-10-07,Hors vacances,Thursday,0
+1053,2021-10-08,Hors vacances,Friday,0
+904,2021-10-09,Hors vacances,Saturday,0
+933,2021-10-10,Hors vacances,Sunday,0
+989,2021-10-11,Hors vacances,Monday,0
+769,2021-10-12,Hors vacances,Tuesday,0
+787,2021-10-13,Hors vacances,Wednesday,0
+877,2021-10-14,Hors vacances,Thursday,0
+755,2021-10-15,Hors vacances,Friday,0
+1094,2021-10-16,Hors vacances,Saturday,0
+1027,2021-10-17,Hors vacances,Sunday,0
+967,2021-10-18,Hors vacances,Monday,0
+956,2021-10-19,Hors vacances,Tuesday,0
+770,2021-10-20,Hors vacances,Wednesday,0
+771,2021-10-21,Hors vacances,Thursday,0
+905,2021-10-22,Hors vacances,Friday,0
+957,2021-10-23,Vacances de la Toussaint,Saturday,3
+867,2021-10-24,Vacances de la Toussaint,Sunday,3
+1007,2021-10-25,Vacances de la Toussaint,Monday,3
+788,2021-10-26,Vacances de la Toussaint,Tuesday,3
+894,2021-10-27,Vacances de la Toussaint,Wednesday,3
+756,2021-10-28,Vacances de la Toussaint,Thursday,3
+990,2021-10-29,Vacances de la Toussaint,Friday,3
+1039,2021-10-30,Vacances de la Toussaint,Saturday,3
+868,2021-10-31,Vacances de la Toussaint,Sunday,3
+1008,2021-11-01,Vacances de la Toussaint,Monday,3
+740,2021-11-02,Vacances de la Toussaint,Tuesday,3
+978,2021-11-03,Vacances de la Toussaint,Wednesday,3
+1081,2021-11-04,Vacances de la Toussaint,Thursday,3
+1054,2021-11-05,Vacances de la Toussaint,Friday,3
+1028,2021-11-06,Vacances de la Toussaint,Saturday,3
+991,2021-11-07,Vacances de la Toussaint,Sunday,3
+834,2021-11-08,Hors vacances,Monday,0
+958,2021-11-09,Hors vacances,Tuesday,0
+800,2021-11-10,Hors vacances,Wednesday,0
+757,2021-11-11,Hors vacances,Thursday,0
+906,2021-11-12,Hors vacances,Friday,0
+1082,2021-11-13,Hors vacances,Saturday,0
+1095,2021-11-14,Hors vacances,Sunday,0
+789,2021-11-15,Hors vacances,Monday,0
+959,2021-11-16,Hors vacances,Tuesday,0
+741,2021-11-17,Hors vacances,Wednesday,0
+992,2021-11-18,Hors vacances,Thursday,0
+878,2021-11-19,Hors vacances,Friday,0
+895,2021-11-20,Hors vacances,Saturday,0
+1020,2021-11-21,Hors vacances,Sunday,0
+1083,2021-11-22,Hors vacances,Monday,0
+835,2021-11-23,Hors vacances,Tuesday,0
+869,2021-11-24,Hors vacances,Wednesday,0
+1029,2021-11-25,Hors vacances,Thursday,0
+772,2021-11-26,Hors vacances,Friday,0
+742,2021-11-27,Hors vacances,Saturday,0
+790,2021-11-28,Hors vacances,Sunday,0
+743,2021-11-29,Hors vacances,Monday,0
+1030,2021-11-30,Hors vacances,Tuesday,0
+791,2021-12-01,Hors vacances,Wednesday,0
+907,2021-12-02,Hors vacances,Thursday,0
+908,2021-12-03,Hors vacances,Friday,0
+744,2021-12-04,Hors vacances,Saturday,0
+968,2021-12-05,Hors vacances,Sunday,0
+934,2021-12-06,Hors vacances,Monday,0
+960,2021-12-07,Hors vacances,Tuesday,0
+860,2021-12-08,Hors vacances,Wednesday,0
+758,2021-12-09,Hors vacances,Thursday,0
+1084,2021-12-10,Hors vacances,Friday,0
+935,2021-12-11,Hors vacances,Saturday,0
+792,2021-12-12,Hors vacances,Sunday,0
+1031,2021-12-13,Hors vacances,Monday,0
+773,2021-12-14,Hors vacances,Tuesday,0
+879,2021-12-15,Hors vacances,Wednesday,0
+909,2021-12-16,Hors vacances,Thursday,0
+969,2021-12-17,Hors vacances,Friday,0
+1055,2021-12-18,Vacances de Noël,Saturday,3
+836,2021-12-19,Vacances de Noël,Sunday,3
+910,2021-12-20,Vacances de Noël,Monday,3
+961,2021-12-21,Vacances de Noël,Tuesday,3
+880,2021-12-22,Vacances de Noël,Wednesday,3
+1021,2021-12-23,Vacances de Noël,Thursday,3
+1066,2021-12-24,Vacances de Noël,Friday,3
+1085,2021-12-25,Vacances de Noël,Saturday,3
+962,2021-12-26,Vacances de Noël,Sunday,3
+923,2021-12-27,Vacances de Noël,Monday,3
+848,2021-12-28,Vacances de Noël,Tuesday,3
+1056,2021-12-29,Vacances de Noël,Wednesday,3
+793,2021-12-30,Vacances de Noël,Thursday,3
+774,2021-12-31,Vacances de Noël,Friday,3
+1412,2022-01-01,Vacances de Noël,Saturday,3
+1337,2022-01-02,Vacances de Noël,Sunday,3
+1403,2022-01-03,Hors vacances,Monday,0
+1195,2022-01-04,Hors vacances,Tuesday,0
+1373,2022-01-05,Hors vacances,Wednesday,0
+1235,2022-01-06,Hors vacances,Thursday,0
+1236,2022-01-07,Hors vacances,Friday,0
+1259,2022-01-08,Hors vacances,Saturday,0
+1219,2022-01-09,Hors vacances,Sunday,0
+1322,2022-01-10,Hors vacances,Monday,0
+1270,2022-01-11,Hors vacances,Tuesday,0
+1141,2022-01-12,Hors vacances,Wednesday,0
+1164,2022-01-13,Hors vacances,Thursday,0
+1165,2022-01-14,Hors vacances,Friday,0
+1220,2022-01-15,Hors vacances,Saturday,0
+1338,2022-01-16,Hors vacances,Sunday,0
+1353,2022-01-17,Hors vacances,Monday,0
+1166,2022-01-18,Hors vacances,Tuesday,0
+1142,2022-01-19,Hors vacances,Wednesday,0
+1390,2022-01-20,Hors vacances,Thursday,0
+1438,2022-01-21,Hors vacances,Friday,0
+1105,2022-01-22,Hors vacances,Saturday,0
+1374,2022-01-23,Hors vacances,Sunday,0
+1311,2022-01-24,Hors vacances,Monday,0
+1375,2022-01-25,Hors vacances,Tuesday,0
+1154,2022-01-26,Hors vacances,Wednesday,0
+1121,2022-01-27,Hors vacances,Thursday,0
+1283,2022-01-28,Hors vacances,Friday,0
+1143,2022-01-29,Hors vacances,Saturday,0
+1122,2022-01-30,Hors vacances,Sunday,0
+1312,2022-01-31,Hors vacances,Monday,0
+1323,2022-02-01,Hors vacances,Tuesday,0
+1413,2022-02-02,Hors vacances,Wednesday,0
+1144,2022-02-03,Hors vacances,Thursday,0
+1404,2022-02-04,Hors vacances,Friday,0
+1106,2022-02-05,Vacances d'hiver,Saturday,1
+1260,2022-02-06,Vacances d'hiver,Sunday,1
+1423,2022-02-07,Vacances d'hiver,Monday,1
+1261,2022-02-08,Vacances d'hiver,Tuesday,1
+1221,2022-02-09,Vacances d'hiver,Wednesday,1
+1262,2022-02-10,Vacances d'hiver,Thursday,1
+1196,2022-02-11,Vacances d'hiver,Friday,1
+1247,2022-02-12,Vacances d'hiver,Saturday,2
+1248,2022-02-13,Vacances d'hiver,Sunday,2
+1123,2022-02-14,Vacances d'hiver,Monday,2
+1167,2022-02-15,Vacances d'hiver,Tuesday,2
+1364,2022-02-16,Vacances d'hiver,Wednesday,2
+1439,2022-02-17,Vacances d'hiver,Thursday,2
+1271,2022-02-18,Vacances d'hiver,Friday,2
+1249,2022-02-19,Vacances d'hiver,Saturday,3
+1365,2022-02-20,Vacances d'hiver,Sunday,3
+1284,2022-02-21,Vacances d'hiver,Monday,2
+1272,2022-02-22,Vacances d'hiver,Tuesday,2
+1145,2022-02-23,Vacances d'hiver,Wednesday,2
+1300,2022-02-24,Vacances d'hiver,Thursday,2
+1222,2022-02-25,Vacances d'hiver,Friday,2
+1405,2022-02-26,Vacances d'hiver,Saturday,2
+1440,2022-02-27,Vacances d'hiver,Sunday,2
+1096,2022-02-28,Vacances d'hiver,Monday,1
+1182,2022-03-01,Vacances d'hiver,Tuesday,1
+1324,2022-03-02,Vacances d'hiver,Wednesday,1
+1285,2022-03-03,Vacances d'hiver,Thursday,1
+1391,2022-03-04,Vacances d'hiver,Friday,1
+1237,2022-03-05,Vacances d'hiver,Saturday,1
+1414,2022-03-06,Vacances d'hiver,Sunday,1
+1124,2022-03-07,Hors vacances,Monday,0
+1097,2022-03-08,Hors vacances,Tuesday,0
+1424,2022-03-09,Hors vacances,Wednesday,0
+1263,2022-03-10,Hors vacances,Thursday,0
+1146,2022-03-11,Hors vacances,Friday,0
+1313,2022-03-12,Hors vacances,Saturday,0
+1441,2022-03-13,Hors vacances,Sunday,0
+1376,2022-03-14,Hors vacances,Monday,0
+1392,2022-03-15,Hors vacances,Tuesday,0
+1415,2022-03-16,Hors vacances,Wednesday,0
+1314,2022-03-17,Hors vacances,Thursday,0
+1339,2022-03-18,Hors vacances,Friday,0
+1340,2022-03-19,Hors vacances,Saturday,0
+1377,2022-03-20,Hors vacances,Sunday,0
+1406,2022-03-21,Hors vacances,Monday,0
+1325,2022-03-22,Hors vacances,Tuesday,0
+1442,2022-03-23,Hors vacances,Wednesday,0
+1147,2022-03-24,Hors vacances,Thursday,0
+1098,2022-03-25,Hors vacances,Friday,0
+1425,2022-03-26,Hors vacances,Saturday,0
+1301,2022-03-27,Hors vacances,Sunday,0
+1443,2022-03-28,Hors vacances,Monday,0
+1168,2022-03-29,Hors vacances,Tuesday,0
+1107,2022-03-30,Hors vacances,Wednesday,0
+1354,2022-03-31,Hors vacances,Thursday,0
+1108,2022-04-01,Hors vacances,Friday,0
+1326,2022-04-02,Hors vacances,Saturday,0
+1223,2022-04-03,Hors vacances,Sunday,0
+1273,2022-04-04,Hors vacances,Monday,0
+1238,2022-04-05,Hors vacances,Tuesday,0
+1109,2022-04-06,Hors vacances,Wednesday,0
+1341,2022-04-07,Hors vacances,Thursday,0
+1169,2022-04-08,Hors vacances,Friday,0
+1183,2022-04-09,Vacances de printemps,Saturday,1
+1274,2022-04-10,Vacances de printemps,Sunday,1
+1355,2022-04-11,Vacances de printemps,Monday,1
+1426,2022-04-12,Vacances de printemps,Tuesday,1
+1427,2022-04-13,Vacances de printemps,Wednesday,1
+1131,2022-04-14,Vacances de printemps,Thursday,1
+1286,2022-04-15,Vacances de printemps,Friday,1
+1342,2022-04-16,Vacances de printemps,Saturday,2
+1125,2022-04-17,Vacances de printemps,Sunday,2
+1197,2022-04-18,Vacances de printemps,Monday,2
+1416,2022-04-19,Vacances de printemps,Tuesday,2
+1287,2022-04-20,Vacances de printemps,Wednesday,2
+1393,2022-04-21,Vacances de printemps,Thursday,2
+1394,2022-04-22,Vacances de printemps,Friday,2
+1302,2022-04-23,Vacances de printemps,Saturday,3
+1155,2022-04-24,Vacances de printemps,Sunday,3
+1343,2022-04-25,Vacances de printemps,Monday,2
+1366,2022-04-26,Vacances de printemps,Tuesday,2
+1170,2022-04-27,Vacances de printemps,Wednesday,2
+1378,2022-04-28,Vacances de printemps,Thursday,2
+1303,2022-04-29,Vacances de printemps,Friday,2
+1206,2022-04-30,Vacances de printemps,Saturday,2
+1356,2022-05-01,Vacances de printemps,Sunday,2
+1207,2022-05-02,Vacances de printemps,Monday,1
+1275,2022-05-03,Vacances de printemps,Tuesday,1
+1171,2022-05-04,Vacances de printemps,Wednesday,1
+1379,2022-05-05,Vacances de printemps,Thursday,1
+1315,2022-05-06,Vacances de printemps,Friday,1
+1288,2022-05-07,Vacances de printemps,Saturday,1
+1110,2022-05-08,Vacances de printemps,Sunday,1
+1099,2022-05-09,Hors vacances,Monday,0
+1304,2022-05-10,Hors vacances,Tuesday,0
+1156,2022-05-11,Hors vacances,Wednesday,0
+1224,2022-05-12,Hors vacances,Thursday,0
+1132,2022-05-13,Hors vacances,Friday,0
+1133,2022-05-14,Hors vacances,Saturday,0
+1198,2022-05-15,Hors vacances,Sunday,0
+1134,2022-05-16,Hors vacances,Monday,0
+1444,2022-05-17,Hors vacances,Tuesday,0
+1327,2022-05-18,Hors vacances,Wednesday,0
+1199,2022-05-19,Hors vacances,Thursday,0
+1289,2022-05-20,Hors vacances,Friday,0
+1380,2022-05-21,Hors vacances,Saturday,0
+1367,2022-05-22,Hors vacances,Sunday,0
+1225,2022-05-23,Hors vacances,Monday,0
+1445,2022-05-24,Hors vacances,Tuesday,0
+1395,2022-05-25,Hors vacances,Wednesday,0
+1157,2022-05-26,Pont de l'Ascension,Thursday,3
+1200,2022-05-27,Pont de l'Ascension,Friday,3
+1172,2022-05-28,Pont de l'Ascension,Saturday,3
+1446,2022-05-29,Pont de l'Ascension,Sunday,3
+1226,2022-05-30,Hors vacances,Monday,0
+1344,2022-05-31,Hors vacances,Tuesday,0
+1417,2022-06-01,Hors vacances,Wednesday,0
+1418,2022-06-02,Hors vacances,Thursday,0
+1381,2022-06-03,Hors vacances,Friday,0
+1208,2022-06-04,Hors vacances,Saturday,0
+1173,2022-06-05,Hors vacances,Sunday,0
+1227,2022-06-06,Hors vacances,Monday,0
+1447,2022-06-07,Hors vacances,Tuesday,0
+1407,2022-06-08,Hors vacances,Wednesday,0
+1328,2022-06-09,Hors vacances,Thursday,0
+1111,2022-06-10,Hors vacances,Friday,0
+1428,2022-06-11,Hors vacances,Saturday,0
+1357,2022-06-12,Hors vacances,Sunday,0
+1305,2022-06-13,Hors vacances,Monday,0
+1382,2022-06-14,Hors vacances,Tuesday,0
+1448,2022-06-15,Hors vacances,Wednesday,0
+1329,2022-06-16,Hors vacances,Thursday,0
+1228,2022-06-17,Hors vacances,Friday,0
+1250,2022-06-18,Hors vacances,Saturday,0
+1112,2022-06-19,Hors vacances,Sunday,0
+1449,2022-06-20,Hors vacances,Monday,0
+1113,2022-06-21,Hors vacances,Tuesday,0
+1239,2022-06-22,Hors vacances,Wednesday,0
+1368,2022-06-23,Hors vacances,Thursday,0
+1330,2022-06-24,Hors vacances,Friday,0
+1126,2022-06-25,Hors vacances,Saturday,0
+1240,2022-06-26,Hors vacances,Sunday,0
+1331,2022-06-27,Hors vacances,Monday,0
+1429,2022-06-28,Hors vacances,Tuesday,0
+1316,2022-06-29,Hors vacances,Wednesday,0
+1127,2022-06-30,Hors vacances,Thursday,0
+1290,2022-07-01,Hors vacances,Friday,0
+1158,2022-07-02,Hors vacances,Saturday,0
+1276,2022-07-03,Hors vacances,Sunday,0
+1345,2022-07-04,Hors vacances,Monday,0
+1251,2022-07-05,Hors vacances,Tuesday,0
+1264,2022-07-06,Hors vacances,Wednesday,0
+1430,2022-07-07,Vacances d'été,Thursday,3
+1209,2022-07-08,Vacances d'été,Friday,3
+1148,2022-07-09,Vacances d'été,Saturday,3
+1277,2022-07-10,Vacances d'été,Sunday,3
+1135,2022-07-11,Vacances d'été,Monday,3
+1241,2022-07-12,Vacances d'été,Tuesday,3
+1159,2022-07-13,Vacances d'été,Wednesday,3
+1346,2022-07-14,Vacances d'été,Thursday,3
+1396,2022-07-15,Vacances d'été,Friday,3
+1210,2022-07-16,Vacances d'été,Saturday,3
+1358,2022-07-17,Vacances d'été,Sunday,3
+1252,2022-07-18,Vacances d'été,Monday,3
+1332,2022-07-19,Vacances d'été,Tuesday,3
+1419,2022-07-20,Vacances d'été,Wednesday,3
+1291,2022-07-21,Vacances d'été,Thursday,3
+1306,2022-07-22,Vacances d'été,Friday,3
+1278,2022-07-23,Vacances d'été,Saturday,3
+1149,2022-07-24,Vacances d'été,Sunday,3
+1383,2022-07-25,Vacances d'été,Monday,3
+1397,2022-07-26,Vacances d'été,Tuesday,3
+1253,2022-07-27,Vacances d'été,Wednesday,3
+1384,2022-07-28,Vacances d'été,Thursday,3
+1136,2022-07-29,Vacances d'été,Friday,3
+1279,2022-07-30,Vacances d'été,Saturday,3
+1292,2022-07-31,Vacances d'été,Sunday,3
+1398,2022-08-01,Vacances d'été,Monday,3
+1265,2022-08-02,Vacances d'été,Tuesday,3
+1254,2022-08-03,Vacances d'été,Wednesday,3
+1150,2022-08-04,Vacances d'été,Thursday,3
+1359,2022-08-05,Vacances d'été,Friday,3
+1114,2022-08-06,Vacances d'été,Saturday,3
+1160,2022-08-07,Vacances d'été,Sunday,3
+1184,2022-08-08,Vacances d'été,Monday,3
+1450,2022-08-09,Vacances d'été,Tuesday,3
+1201,2022-08-10,Vacances d'été,Wednesday,3
+1369,2022-08-11,Vacances d'été,Thursday,3
+1137,2022-08-12,Vacances d'été,Friday,3
+1115,2022-08-13,Vacances d'été,Saturday,3
+1408,2022-08-14,Vacances d'été,Sunday,3
+1100,2022-08-15,Vacances d'été,Monday,3
+1161,2022-08-16,Vacances d'été,Tuesday,3
+1151,2022-08-17,Vacances d'été,Wednesday,3
+1333,2022-08-18,Vacances d'été,Thursday,3
+1255,2022-08-19,Vacances d'été,Friday,3
+1242,2022-08-20,Vacances d'été,Saturday,3
+1266,2022-08-21,Vacances d'été,Sunday,3
+1116,2022-08-22,Vacances d'été,Monday,3
+1293,2022-08-23,Vacances d'été,Tuesday,3
+1294,2022-08-24,Vacances d'été,Wednesday,3
+1174,2022-08-25,Vacances d'été,Thursday,3
+1334,2022-08-26,Vacances d'été,Friday,3
+1267,2022-08-27,Vacances d'été,Saturday,3
+1256,2022-08-28,Vacances d'été,Sunday,3
+1211,2022-08-29,Vacances d'été,Monday,3
+1128,2022-08-30,Vacances d'été,Tuesday,3
+1212,2022-08-31,Vacances d'été,Wednesday,3
+1185,2022-09-01,Hors vacances,Thursday,0
+1129,2022-09-02,Hors vacances,Friday,0
+1335,2022-09-03,Hors vacances,Saturday,0
+1202,2022-09-04,Hors vacances,Sunday,0
+1138,2022-09-05,Hors vacances,Monday,0
+1295,2022-09-06,Hors vacances,Tuesday,0
+1409,2022-09-07,Hors vacances,Wednesday,0
+1317,2022-09-08,Hors vacances,Thursday,0
+1117,2022-09-09,Hors vacances,Friday,0
+1307,2022-09-10,Hors vacances,Saturday,0
+1130,2022-09-11,Hors vacances,Sunday,0
+1347,2022-09-12,Hors vacances,Monday,0
+1213,2022-09-13,Hors vacances,Tuesday,0
+1175,2022-09-14,Hors vacances,Wednesday,0
+1336,2022-09-15,Hors vacances,Thursday,0
+1451,2022-09-16,Hors vacances,Friday,0
+1452,2022-09-17,Hors vacances,Saturday,0
+1348,2022-09-18,Hors vacances,Sunday,0
+1410,2022-09-19,Hors vacances,Monday,0
+1431,2022-09-20,Hors vacances,Tuesday,0
+1308,2022-09-21,Hors vacances,Wednesday,0
+1453,2022-09-22,Hors vacances,Thursday,0
+1214,2022-09-23,Hors vacances,Friday,0
+1318,2022-09-24,Hors vacances,Saturday,0
+1399,2022-09-25,Hors vacances,Sunday,0
+1280,2022-09-26,Hors vacances,Monday,0
+1152,2022-09-27,Hors vacances,Tuesday,0
+1370,2022-09-28,Hors vacances,Wednesday,0
+1400,2022-09-29,Hors vacances,Thursday,0
+1203,2022-09-30,Hors vacances,Friday,0
+1215,2022-10-01,Hors vacances,Saturday,0
+1229,2022-10-02,Hors vacances,Sunday,0
+1176,2022-10-03,Hors vacances,Monday,0
+1385,2022-10-04,Hors vacances,Tuesday,0
+1386,2022-10-05,Hors vacances,Wednesday,0
+1101,2022-10-06,Hors vacances,Thursday,0
+1296,2022-10-07,Hors vacances,Friday,0
+1349,2022-10-08,Hors vacances,Saturday,0
+1411,2022-10-09,Hors vacances,Sunday,0
+1454,2022-10-10,Hors vacances,Monday,0
+1162,2022-10-11,Hors vacances,Tuesday,0
+1432,2022-10-12,Hors vacances,Wednesday,0
+1163,2022-10-13,Hors vacances,Thursday,0
+1118,2022-10-14,Hors vacances,Friday,0
+1350,2022-10-15,Hors vacances,Saturday,0
+1281,2022-10-16,Hors vacances,Sunday,0
+1139,2022-10-17,Hors vacances,Monday,0
+1297,2022-10-18,Hors vacances,Tuesday,0
+1243,2022-10-19,Hors vacances,Wednesday,0
+1216,2022-10-20,Hors vacances,Thursday,0
+1351,2022-10-21,Hors vacances,Friday,0
+1420,2022-10-22,Vacances de la Toussaint,Saturday,3
+1119,2022-10-23,Vacances de la Toussaint,Sunday,3
+1244,2022-10-24,Vacances de la Toussaint,Monday,3
+1455,2022-10-25,Vacances de la Toussaint,Tuesday,3
+1140,2022-10-26,Vacances de la Toussaint,Wednesday,3
+1268,2022-10-27,Vacances de la Toussaint,Thursday,3
+1371,2022-10-28,Vacances de la Toussaint,Friday,3
+1433,2022-10-29,Vacances de la Toussaint,Saturday,3
+1245,2022-10-30,Vacances de la Toussaint,Sunday,3
+1319,2022-10-31,Vacances de la Toussaint,Monday,3
+1102,2022-11-01,Vacances de la Toussaint,Tuesday,3
+1320,2022-11-02,Vacances de la Toussaint,Wednesday,3
+1120,2022-11-03,Vacances de la Toussaint,Thursday,3
+1177,2022-11-04,Vacances de la Toussaint,Friday,3
+1421,2022-11-05,Vacances de la Toussaint,Saturday,3
+1186,2022-11-06,Vacances de la Toussaint,Sunday,3
+1178,2022-11-07,Hors vacances,Monday,0
+1422,2022-11-08,Hors vacances,Tuesday,0
+1321,2022-11-09,Hors vacances,Wednesday,0
+1187,2022-11-10,Hors vacances,Thursday,0
+1387,2022-11-11,Hors vacances,Friday,0
+1388,2022-11-12,Hors vacances,Saturday,0
+1246,2022-11-13,Hors vacances,Sunday,0
+1230,2022-11-14,Hors vacances,Monday,0
+1179,2022-11-15,Hors vacances,Tuesday,0
+1360,2022-11-16,Hors vacances,Wednesday,0
+1361,2022-11-17,Hors vacances,Thursday,0
+1180,2022-11-18,Hors vacances,Friday,0
+1153,2022-11-19,Hors vacances,Saturday,0
+1372,2022-11-20,Hors vacances,Sunday,0
+1401,2022-11-21,Hors vacances,Monday,0
+1298,2022-11-22,Hors vacances,Tuesday,0
+1309,2022-11-23,Hors vacances,Wednesday,0
+1257,2022-11-24,Hors vacances,Thursday,0
+1204,2022-11-25,Hors vacances,Friday,0
+1104,2022-11-26,Hors vacances,Saturday,0
+1434,2022-11-27,Hors vacances,Sunday,0
+1217,2022-11-28,Hors vacances,Monday,0
+1389,2022-11-29,Hors vacances,Tuesday,0
+1456,2022-11-30,Hors vacances,Wednesday,0
+1231,2022-12-01,Hors vacances,Thursday,0
+1232,2022-12-02,Hors vacances,Friday,0
+1188,2022-12-03,Hors vacances,Saturday,0
+1352,2022-12-04,Hors vacances,Sunday,0
+1233,2022-12-05,Hors vacances,Monday,0
+1181,2022-12-06,Hors vacances,Tuesday,0
+1402,2022-12-07,Hors vacances,Wednesday,0
+1103,2022-12-08,Hors vacances,Thursday,0
+1189,2022-12-09,Hors vacances,Friday,0
+1457,2022-12-10,Hors vacances,Saturday,0
+1218,2022-12-11,Hors vacances,Sunday,0
+1362,2022-12-12,Hors vacances,Monday,0
+1190,2022-12-13,Hors vacances,Tuesday,0
+1435,2022-12-14,Hors vacances,Wednesday,0
+1269,2022-12-15,Hors vacances,Thursday,0
+1458,2022-12-16,Hors vacances,Friday,0
+1191,2022-12-17,Vacances de Noël,Saturday,3
+1436,2022-12-18,Vacances de Noël,Sunday,3
+1459,2022-12-19,Vacances de Noël,Monday,3
+1192,2022-12-20,Vacances de Noël,Tuesday,3
+1193,2022-12-21,Vacances de Noël,Wednesday,3
+1363,2022-12-22,Vacances de Noël,Thursday,3
+1310,2022-12-23,Vacances de Noël,Friday,3
+1437,2022-12-24,Vacances de Noël,Saturday,3
+1299,2022-12-25,Vacances de Noël,Sunday,3
+1258,2022-12-26,Vacances de Noël,Monday,3
+1460,2022-12-27,Vacances de Noël,Tuesday,3
+1205,2022-12-28,Vacances de Noël,Wednesday,3
+1194,2022-12-29,Vacances de Noël,Thursday,3
+1234,2022-12-30,Vacances de Noël,Friday,3
+1282,2022-12-31,Vacances de Noël,Saturday,3
